@@ -1,0 +1,825 @@
+Review_ID,Product_Name,Category,Brand,Price_INR,Rating,Review_Title,Review_Text,Review_Date,Verified_Purchase,Helpful_Votes,Location,Device_Age_Months,Would_Recommend
+1,Galaxy M14,Smartphone,Samsung,17056,3.1,Worst experience,totally waste of money   ,08-09-2024,No,37,Kolkata,12,2
+2,Noise ColorFit Pro,Smartwatch,Noise,31694,1,Not satisfied,super fast   smooth performance ,12-04-2024,Yes,1,Jaipur,5,0
+3,JBL Flip 5,Speaker,JBL,49575,3.1,Good product,display ok   speakers average  ,23-10-2024,Unknown,31,Pune,11,0
+5,HP Pavilion 15,Laptop,HP,58076,5,Not satisfied,stopped working after   months    very bad,14-02-2024,No,30,Delhi,9,1
+7,Asus Vivobook,Laptop,Asus,22379,3.1,Value for money,totally waste of money   ,18-04-2024,No,23,Chennai,7,1
+9,LG 260L Fridge,Refrigerator,LG,39827,3.5,Value for money,hangs alottt and laggy sometimes,04-01-2025,Unknown,8,Hyderabad,7,0
+11,LG 260L Fridge,Refrigerator,LG,25663,3.1,Highly recommended,totally waste of money   ,04-10-2024,Unknown,45,Dehradun,6,0
+12,Sony Bravia 43,Television,Sony,32366,3.1,Worst experience,stopped working after   months    very bad,03-11-2024,Unknown,15,Pune,5,2
+13,Redmi Note 12,Smartphone,Xiaomi,7226,2,Bad quality,display ok   speakers average  ,30-11-2024,No,40,Bangalore,7,1
+15,Noise ColorFit Pro,Smartwatch,Noise,15452,3.1,Bad quality,battery life is awsm    lasts long     ,29-03-2024,No,41,Jaipur,8,1
+16,Galaxy M14,Smartphone,Samsung,8527,3.1,Value for money,camra quality mindblowinggg but bit costly,14-08-2024,No,3,Pune,8,0
+17,Dell Inspiron 14,Laptop,Dell,31945,5,Worst experience,totally waste of money   ,15-02-2025,Unknown,7,Mumbai,10,1
+18,Galaxy M14,Smartphone,Samsung,67485,1,Okayish,camra quality mindblowinggg but bit costly,02-07-2024,Yes,3,Kolkata,9,0
+20,JBL Flip 5,Speaker,JBL,20990,3.1,Decent buy,super fast   smooth performance ,31-07-2024,Yes,7,Hyderabad,2,1
+22,Galaxy M14,Smartphone,Samsung,11371,3.1,Bad quality,hangs alottt and laggy sometimes,28-02-2024,Yes,10,Chennai,3,1
+23,HP Pavilion 15,Laptop,HP,6546,2,Good product,build qualty not good    disappointed,18-01-2024,No,6,Lucknow,5,1
+25,OnePlus 11R,Smartphone,OnePlus,21173,3.5,Value for money,build qualty not good    disappointed,06-08-2024,Yes,4,Delhi,12,2
+26,JBL Flip 5,Speaker,JBL,51834,3.1,Bad quality,battery life is awsm    lasts long     ,22-01-2024,Yes,32,Chennai,2,2
+27,Boat Rockerz 255,Headphones,Boat,63927,2,Okayish,hangs alottt and laggy sometimes,27-06-2024,No,29,Dehradun,3,1
+28,Redmi Note 12,Smartphone,Xiaomi,9133,3.1,Not satisfied,display ok   speakers average  ,13-04-2024,Yes,6,Mumbai,3,2
+29,Lenovo Tab M10,Tablet,Lenovo,25067,4,Okayish,camra quality mindblowinggg but bit costly,29-04-2024,Yes,26,Hyderabad,10,1
+30,Dell Inspiron 14,Laptop,Dell,52419,3.5,Amazing!!!,super fast   smooth performance ,28-07-2024,Unknown,30,Mumbai,11,0
+32,Noise ColorFit Pro,Smartwatch,Noise,6656,5,Not satisfied,battery life is awsm    lasts long     ,02-08-2024,Unknown,13,Pune,6,2
+33,Canon EOS 1500D,Camera,Canon,31327,4,Decent buy,display ok   speakers average  ,08-05-2024,No,47,Hyderabad,6,2
+34,LG 260L Fridge,Refrigerator,LG,10516,5,Highly recommended,camra quality mindblowinggg but bit costly,08-12-2024,Unknown,8,Delhi,11,2
+36,Redmi Note 12,Smartphone,Xiaomi,55365,3,Loved ittt,display ok   speakers average  ,29-02-2024,Unknown,20,Lucknow,3,1
+37,Boat Rockerz 255,Headphones,Boat,15798,1,Highly recommended,performance is ok ok    heating issue sometimes,20-03-2024,Unknown,8,Bangalore,4,1
+38,Dell Inspiron 14,Laptop,Dell,39568,3.1,Loved ittt,super fast   smooth performance ,19-12-2024,No,4,Bangalore,10,2
+39,Asus Vivobook,Laptop,Asus,45705,3.1,Loved ittt,battery life is awsm    lasts long     ,28-05-2024,Unknown,26,Jaipur,12,0
+40,HP Pavilion 15,Laptop,HP,44964,3.1,Bad quality,stopped working after   months    very bad,25-02-2025,No,20,Hyderabad,3,1
+41,Noise ColorFit Pro,Smartwatch,Noise,32037,1,Bad quality,totally waste of money   ,31-12-2024,No,34,Chennai,7,0
+43,LG 260L Fridge,Refrigerator,LG,65008,4,Loved ittt,battery life is awsm    lasts long     ,19-05-2024,Yes,36,Mumbai,1,0
+46,Realme Buds Air,Earbuds,Realme,21864,3.1,Bad quality,totally waste of money   ,18-12-2024,Unknown,28,Kolkata,12,1
+47,Canon EOS 1500D,Camera,Canon,10985,3.5,Loved ittt,camra quality mindblowinggg but bit costly,03-07-2024,Yes,29,Dehradun,4,1
+48,Asus Vivobook,Laptop,Asus,63013,3,Loved ittt,camra quality mindblowinggg but bit costly,24-09-2024,Yes,16,Pune,10,1
+50,Redmi Note 12,Smartphone,Xiaomi,8101,3.5,Worst experience,totally waste of money   ,15-11-2024,No,33,Hyderabad,11,1
+51,LG 260L Fridge,Refrigerator,LG,33708,3.1,Amazing!!!,stopped working after   months    very bad,19-05-2024,Yes,45,Pune,11,0
+52,Dell Inspiron 14,Laptop,Dell,48577,3.1,Okayish,battery life is awsm    lasts long     ,25-08-2024,Unknown,5,Mumbai,10,1
+53,JBL Flip 5,Speaker,JBL,52288,3.1,Loved ittt,performance is ok ok    heating issue sometimes,09-12-2024,No,24,Delhi,7,1
+54,Asus Vivobook,Laptop,Asus,50850,3,Okayish,performance is ok ok    heating issue sometimes,10-10-2024,Yes,10,Delhi,7,0
+56,Lenovo Tab M10,Tablet,Lenovo,18700,3,Loved ittt,battery life is awsm    lasts long     ,02-04-2025,Yes,8,Hyderabad,6,2
+58,Sony Bravia 43,Television,Sony,52666,5,Loved ittt,stopped working after   months    very bad,25-01-2024,Unknown,6,Mumbai,1,1
+59,Canon EOS 1500D,Camera,Canon,49835,3,Decent buy,display ok   speakers average  ,26-01-2024,No,41,Dehradun,8,0
+60,Redmi Note 12,Smartphone,Xiaomi,38416,5,Not satisfied,super fast   smooth performance ,18-02-2024,Yes,19,Pune,6,1
+61,Asus Vivobook,Laptop,Asus,56811,3.1,Loved ittt,battery life is awsm    lasts long     ,21-12-2024,Yes,17,Lucknow,1,1
+62,OnePlus 11R,Smartphone,OnePlus,58402,3.1,Bad quality,display ok   speakers average  ,07-02-2024,No,16,Delhi,11,0
+63,Canon EOS 1500D,Camera,Canon,38965,3.1,Decent buy,hangs alottt and laggy sometimes,25-05-2024,Yes,49,Dehradun,2,0
+64,Asus Vivobook,Laptop,Asus,57870,3.5,Amazing!!!,build qualty not good    disappointed,28-09-2024,No,28,Mumbai,4,1
+65,JBL Flip 5,Speaker,JBL,67559,4,Okayish,display ok   speakers average  ,07-11-2024,No,27,Lucknow,7,1
+66,LG 260L Fridge,Refrigerator,LG,58817,3.1,Value for money,stopped working after   months    very bad,26-11-2024,Yes,17,Chennai,5,2
+68,Dell Inspiron 14,Laptop,Dell,32626,4,Loved ittt,display ok   speakers average  ,09-06-2024,No,44,Chennai,9,0
+69,LG 260L Fridge,Refrigerator,LG,31985,3.1,Loved ittt,performance is ok ok    heating issue sometimes,13-05-2024,No,46,Bangalore,12,0
+71,Redmi Note 12,Smartphone,Xiaomi,69471,1,Not satisfied,stopped working after   months    very bad,23-04-2024,No,23,Dehradun,8,2
+72,Redmi Note 12,Smartphone,Xiaomi,39280,3.1,Loved ittt,stopped working after   months    very bad,20-06-2024,No,21,Mumbai,6,2
+73,Canon EOS 1500D,Camera,Canon,61074,2,Okayish,performance is ok ok    heating issue sometimes,09-10-2024,Yes,8,Pune,12,2
+74,Boat Rockerz 255,Headphones,Boat,54014,2,Value for money,super fast   smooth performance ,17-01-2025,No,15,Dehradun,9,0
+76,Canon EOS 1500D,Camera,Canon,32813,3.1,Worst experience,sound is loud and clear   ,07-01-2024,Unknown,44,Jaipur,8,1
+77,Boat Rockerz 255,Headphones,Boat,60940,3,Not satisfied,totally waste of money   ,12-04-2024,Yes,33,Jaipur,10,0
+78,LG 260L Fridge,Refrigerator,LG,44103,2,Highly recommended,display ok   speakers average  ,18-11-2024,Unknown,36,Lucknow,10,1
+80,Dell Inspiron 14,Laptop,Dell,63774,3.1,Not satisfied,display ok   speakers average  ,24-03-2024,Unknown,2,Pune,6,0
+81,Boat Rockerz 255,Headphones,Boat,64488,3.1,Not satisfied,camra quality mindblowinggg but bit costly,07-12-2024,No,35,Kolkata,1,0
+82,Lenovo Tab M10,Tablet,Lenovo,3066,3.1,Good product,performance is ok ok    heating issue sometimes,09-09-2024,Yes,13,Kolkata,5,1
+83,Sony Bravia 43,Television,Sony,58022,3.1,Decent buy,camra quality mindblowinggg but bit costly,23-08-2024,No,10,Jaipur,3,1
+84,iPhone 13,Smartphone,Apple,58253,3.1,Loved ittt,totally waste of money   ,22-07-2024,Yes,44,Jaipur,3,2
+85,Noise ColorFit Pro,Smartwatch,Noise,16629,3.1,Okayish,sound is loud and clear   ,04-03-2024,Unknown,27,Lucknow,8,2
+86,Galaxy M14,Smartphone,Samsung,66075,4,Amazing!!!,hangs alottt and laggy sometimes,26-04-2024,No,3,Chennai,12,1
+87,Noise ColorFit Pro,Smartwatch,Noise,33607,4,Okayish,super fast   smooth performance ,19-09-2024,Yes,4,Jaipur,4,0
+88,Noise ColorFit Pro,Smartwatch,Noise,32605,3.1,Worst experience,sound is loud and clear   ,06-10-2024,Yes,2,Chennai,7,1
+89,Dell Inspiron 14,Laptop,Dell,5926,3.1,Okayish,totally waste of money   ,25-04-2024,No,15,Pune,3,0
+90,Boat Rockerz 255,Headphones,Boat,45280,3.1,Good product,stopped working after   months    very bad,08-07-2024,Yes,43,Delhi,9,2
+93,LG 260L Fridge,Refrigerator,LG,14969,5,Highly recommended,performance is ok ok    heating issue sometimes,26-02-2024,No,26,Mumbai,12,0
+94,Asus Vivobook,Laptop,Asus,25319,4,Not satisfied,camra quality mindblowinggg but bit costly,03-06-2024,Unknown,16,Mumbai,12,2
+95,Sony Bravia 43,Television,Sony,38674,3.1,Not satisfied,hangs alottt and laggy sometimes,03-08-2024,No,19,Pune,10,2
+96,JBL Flip 5,Speaker,JBL,39662,3.1,Bad quality,hangs alottt and laggy sometimes,01-10-2024,No,26,Mumbai,8,0
+97,JBL Flip 5,Speaker,JBL,19180,5,Good product,display ok   speakers average  ,14-11-2024,No,49,Delhi,6,0
+98,Boat Rockerz 255,Headphones,Boat,48894,3,Okayish,totally waste of money   ,19-11-2024,Unknown,4,Chennai,3,2
+99,Redmi Note 12,Smartphone,Xiaomi,20339,4,Bad quality,super fast   smooth performance ,17-12-2024,Yes,2,Jaipur,9,1
+100,OnePlus 11R,Smartphone,OnePlus,26947,3.1,Value for money,stopped working after   months    very bad,22-12-2024,No,48,Jaipur,6,0
+101,LG 260L Fridge,Refrigerator,LG,7516,5,Bad quality,build qualty not good    disappointed,18-09-2024,No,35,Pune,9,0
+102,Galaxy M14,Smartphone,Samsung,16216,3.1,Okayish,build qualty not good    disappointed,01-04-2024,Yes,27,Jaipur,10,2
+103,Realme Buds Air,Earbuds,Realme,38895,3.1,Okayish,super fast   smooth performance ,09-04-2024,No,5,Pune,3,2
+106,Asus Vivobook,Laptop,Asus,30395,1,Highly recommended,battery life is awsm    lasts long     ,03-06-2024,No,50,Bangalore,9,0
+107,Boat Rockerz 255,Headphones,Boat,34551,1,Decent buy,display ok   speakers average  ,26-09-2024,Yes,20,Dehradun,3,1
+108,Boat Rockerz 255,Headphones,Boat,56827,3.1,Bad quality,hangs alottt and laggy sometimes,25-07-2024,No,49,Chennai,10,1
+109,Boat Rockerz 255,Headphones,Boat,4060,1,Worst experience,stopped working after   months    very bad,19-01-2025,No,21,Delhi,4,0
+110,JBL Flip 5,Speaker,JBL,39979,3.5,Amazing!!!,hangs alottt and laggy sometimes,27-10-2024,No,20,Dehradun,9,1
+111,Redmi Note 12,Smartphone,Xiaomi,44951,3.1,Highly recommended,super fast   smooth performance ,01-05-2024,No,11,Delhi,11,0
+112,Dell Inspiron 14,Laptop,Dell,21857,3.1,Loved ittt,performance is ok ok    heating issue sometimes,04-02-2024,Unknown,46,Lucknow,12,0
+115,OnePlus 11R,Smartphone,OnePlus,67054,1,Loved ittt,hangs alottt and laggy sometimes,25-07-2024,No,29,Jaipur,6,2
+116,Asus Vivobook,Laptop,Asus,29737,1,Bad quality,hangs alottt and laggy sometimes,29-11-2024,Yes,24,Pune,6,0
+117,Sony Bravia 43,Television,Sony,31056,3.5,Decent buy,performance is ok ok    heating issue sometimes,09-02-2024,Unknown,21,Pune,6,2
+119,LG 260L Fridge,Refrigerator,LG,40896,2,Loved ittt,hangs alottt and laggy sometimes,05-01-2024,Yes,37,Pune,2,1
+120,Galaxy M14,Smartphone,Samsung,3298,3.1,Loved ittt,performance is ok ok    heating issue sometimes,03-03-2024,No,30,Lucknow,5,1
+121,Redmi Note 12,Smartphone,Xiaomi,37846,3.1,Loved ittt,sound is loud and clear   ,02-01-2025,Unknown,27,Lucknow,8,2
+123,Lenovo Tab M10,Tablet,Lenovo,45933,5,Worst experience,stopped working after   months    very bad,20-01-2025,No,6,Delhi,12,0
+124,Galaxy M14,Smartphone,Samsung,2116,4,Okayish,totally waste of money   ,21-01-2025,No,16,Lucknow,9,1
+125,OnePlus 11R,Smartphone,OnePlus,46098,3,Highly recommended,super fast   smooth performance ,29-01-2024,Unknown,41,Dehradun,9,1
+126,JBL Flip 5,Speaker,JBL,68700,3,Okayish,build qualty not good    disappointed,19-03-2024,No,38,Hyderabad,12,2
+128,Canon EOS 1500D,Camera,Canon,35586,3.1,Okayish,stopped working after   months    very bad,03-06-2024,Unknown,29,Bangalore,10,1
+129,Galaxy M14,Smartphone,Samsung,36966,3.1,Bad quality,build qualty not good    disappointed,25-12-2024,Yes,46,Lucknow,1,2
+130,OnePlus 11R,Smartphone,OnePlus,42454,3.5,Amazing!!!,stopped working after   months    very bad,17-05-2024,No,28,Chennai,10,0
+131,Redmi Note 12,Smartphone,Xiaomi,4216,3.5,Good product,performance is ok ok    heating issue sometimes,07-03-2024,No,48,Delhi,9,1
+132,Dell Inspiron 14,Laptop,Dell,33363,3.1,Amazing!!!,camra quality mindblowinggg but bit costly,11-10-2024,Yes,30,Mumbai,9,0
+137,Sony Bravia 43,Television,Sony,67975,3.5,Value for money,performance is ok ok    heating issue sometimes,21-03-2024,Yes,34,Hyderabad,9,2
+139,LG 260L Fridge,Refrigerator,LG,40917,5,Value for money,battery life is awsm    lasts long     ,28-06-2024,No,50,Delhi,2,2
+141,Asus Vivobook,Laptop,Asus,59324,4,Loved ittt,camra quality mindblowinggg but bit costly,13-02-2025,Yes,34,Mumbai,7,0
+142,iPhone 13,Smartphone,Apple,7563,3.1,Highly recommended,camra quality mindblowinggg but bit costly,27-06-2024,Unknown,20,Bangalore,11,0
+143,LG 260L Fridge,Refrigerator,LG,15332,3.1,Amazing!!!,camra quality mindblowinggg but bit costly,06-08-2024,Unknown,39,Chennai,5,1
+144,iPhone 13,Smartphone,Apple,43029,3.1,Decent buy,performance is ok ok    heating issue sometimes,02-01-2024,Yes,38,Mumbai,2,1
+145,Boat Rockerz 255,Headphones,Boat,59519,3.1,Value for money,stopped working after   months    very bad,07-01-2024,Yes,14,Kolkata,10,2
+146,Canon EOS 1500D,Camera,Canon,19909,3.1,Decent buy,battery life is awsm    lasts long     ,02-05-2025,No,0,Mumbai,12,0
+147,OnePlus 11R,Smartphone,OnePlus,58651,3.1,Decent buy,super fast   smooth performance ,25-02-2025,No,4,Hyderabad,8,1
+148,LG 260L Fridge,Refrigerator,LG,3896,3.1,Not satisfied,totally waste of money   ,30-06-2024,Unknown,16,Dehradun,8,1
+149,Redmi Note 12,Smartphone,Xiaomi,56021,1,Loved ittt,display ok   speakers average  ,18-11-2024,Yes,5,Mumbai,5,2
+150,iPhone 13,Smartphone,Apple,38975,3,Decent buy,hangs alottt and laggy sometimes,04-02-2024,No,12,Lucknow,1,0
+151,Canon EOS 1500D,Camera,Canon,43138,3.1,Highly recommended,battery life is awsm    lasts long     ,25-07-2024,Yes,18,Kolkata,11,0
+152,Noise ColorFit Pro,Smartwatch,Noise,51469,3.1,Amazing!!!,hangs alottt and laggy sometimes,24-04-2024,Yes,46,Dehradun,5,1
+153,Galaxy M14,Smartphone,Samsung,60154,5,Value for money,totally waste of money   ,01-01-2025,No,30,Lucknow,11,0
+154,Lenovo Tab M10,Tablet,Lenovo,7837,3.1,Loved ittt,camra quality mindblowinggg but bit costly,07-04-2024,Yes,28,Jaipur,2,0
+155,Canon EOS 1500D,Camera,Canon,25845,5,Amazing!!!,camra quality mindblowinggg but bit costly,12-06-2024,Yes,43,Lucknow,5,0
+156,Asus Vivobook,Laptop,Asus,1740,3,Not satisfied,camra quality mindblowinggg but bit costly,21-01-2025,Yes,22,Dehradun,10,0
+157,Lenovo Tab M10,Tablet,Lenovo,64930,1,Loved ittt,stopped working after   months    very bad,28-02-2024,No,44,Mumbai,10,1
+158,Sony Bravia 43,Television,Sony,11947,3,Not satisfied,battery life is awsm    lasts long     ,28-09-2024,No,33,Pune,12,1
+159,Noise ColorFit Pro,Smartwatch,Noise,27298,3.5,Loved ittt,sound is loud and clear   ,04-03-2024,Unknown,47,Lucknow,1,2
+161,Noise ColorFit Pro,Smartwatch,Noise,3070,3.1,Not satisfied,stopped working after   months    very bad,29-10-2024,Yes,7,Chennai,11,1
+163,Lenovo Tab M10,Tablet,Lenovo,10801,4,Value for money,display ok   speakers average  ,10-04-2024,Yes,49,Mumbai,11,2
+164,Asus Vivobook,Laptop,Asus,36270,5,Not satisfied,stopped working after   months    very bad,31-12-2024,No,25,Jaipur,5,2
+165,LG 260L Fridge,Refrigerator,LG,35658,3.1,Okayish,display ok   speakers average  ,29-01-2025,Yes,16,Bangalore,9,1
+166,JBL Flip 5,Speaker,JBL,16708,1,Good product,stopped working after   months    very bad,01-07-2025,No,50,Mumbai,2,2
+167,OnePlus 11R,Smartphone,OnePlus,32933,3,Okayish,performance is ok ok    heating issue sometimes,20-02-2024,No,40,Hyderabad,12,2
+169,OnePlus 11R,Smartphone,OnePlus,36879,2,Bad quality,hangs alottt and laggy sometimes,27-01-2025,Yes,14,Chennai,7,2
+172,Galaxy M14,Smartphone,Samsung,58143,3.1,Okayish,camra quality mindblowinggg but bit costly,13-03-2024,No,39,Chennai,4,0
+173,LG 260L Fridge,Refrigerator,LG,38532,3.1,Highly recommended,hangs alottt and laggy sometimes,11-10-2024,Unknown,21,Lucknow,9,1
+174,Lenovo Tab M10,Tablet,Lenovo,15582,3,Loved ittt,display ok   speakers average  ,23-08-2024,Yes,1,Pune,11,1
+175,Galaxy M14,Smartphone,Samsung,31143,4,Decent buy,sound is loud and clear   ,03-09-2024,Unknown,13,Delhi,9,1
+177,Boat Rockerz 255,Headphones,Boat,60150,3.1,Loved ittt,build qualty not good    disappointed,16-01-2024,No,6,Jaipur,2,1
+181,LG 260L Fridge,Refrigerator,LG,63440,2,Value for money,super fast   smooth performance ,15-08-2024,Yes,15,Dehradun,9,1
+182,Realme Buds Air,Earbuds,Realme,60213,3.1,Loved ittt,stopped working after   months    very bad,08-06-2024,Unknown,10,Delhi,1,0
+183,Lenovo Tab M10,Tablet,Lenovo,38954,4,Not satisfied,performance is ok ok    heating issue sometimes,17-10-2024,No,26,Mumbai,10,2
+184,Noise ColorFit Pro,Smartwatch,Noise,24560,4,Not satisfied,camra quality mindblowinggg but bit costly,04-03-2024,No,15,Delhi,12,0
+185,HP Pavilion 15,Laptop,HP,40327,5,Not satisfied,super fast   smooth performance ,16-03-2024,No,14,Pune,8,0
+186,Sony Bravia 43,Television,Sony,12560,1,Loved ittt,build qualty not good    disappointed,22-09-2024,No,35,Pune,8,0
+188,Noise ColorFit Pro,Smartwatch,Noise,54586,3.1,Amazing!!!,build qualty not good    disappointed,13-04-2024,Yes,22,Lucknow,4,1
+190,Dell Inspiron 14,Laptop,Dell,65499,3.1,Bad quality,totally waste of money   ,20-03-2024,Yes,42,Lucknow,9,2
+191,Noise ColorFit Pro,Smartwatch,Noise,7372,5,Bad quality,totally waste of money   ,21-12-2024,Unknown,9,Delhi,3,0
+192,Dell Inspiron 14,Laptop,Dell,36571,3,Value for money,sound is loud and clear   ,25-09-2024,Unknown,45,Lucknow,7,2
+193,JBL Flip 5,Speaker,JBL,35727,5,Okayish,battery life is awsm    lasts long     ,01-09-2024,Unknown,19,Kolkata,7,0
+195,Sony Bravia 43,Television,Sony,38670,1,Okayish,sound is loud and clear   ,13-04-2024,No,37,Dehradun,12,0
+196,Boat Rockerz 255,Headphones,Boat,24072,3,Okayish,stopped working after   months    very bad,01-03-2024,Unknown,19,Hyderabad,6,0
+197,Redmi Note 12,Smartphone,Xiaomi,32842,2,Loved ittt,performance is ok ok    heating issue sometimes,15-02-2025,Unknown,42,Chennai,11,0
+198,HP Pavilion 15,Laptop,HP,43777,3.1,Loved ittt,battery life is awsm    lasts long     ,30-10-2024,Yes,13,Pune,9,2
+201,Redmi Note 12,Smartphone,Xiaomi,3484,3.1,Highly recommended,camra quality mindblowinggg but bit costly,27-10-2024,No,7,Kolkata,8,0
+204,Dell Inspiron 14,Laptop,Dell,53131,3.1,Decent buy,build qualty not good    disappointed,12-07-2024,Yes,27,Delhi,10,0
+205,Noise ColorFit Pro,Smartwatch,Noise,41275,3.1,Value for money,totally waste of money   ,13-05-2024,Unknown,46,Hyderabad,10,1
+206,Galaxy M14,Smartphone,Samsung,35979,3.5,Not satisfied,sound is loud and clear   ,05-07-2024,Yes,17,Kolkata,9,0
+207,JBL Flip 5,Speaker,JBL,36870,3.1,Value for money,camra quality mindblowinggg but bit costly,02-08-2024,No,49,Mumbai,12,1
+208,OnePlus 11R,Smartphone,OnePlus,11552,5,Loved ittt,camra quality mindblowinggg but bit costly,04-04-2024,No,26,Pune,7,1
+209,Sony Bravia 43,Television,Sony,23092,5,Good product,hangs alottt and laggy sometimes,23-05-2024,No,40,Delhi,4,0
+210,Sony Bravia 43,Television,Sony,45208,2,Amazing!!!,totally waste of money   ,28-12-2024,No,20,Bangalore,4,1
+211,Lenovo Tab M10,Tablet,Lenovo,48110,3.1,Highly recommended,super fast   smooth performance ,27-11-2024,No,19,Pune,10,1
+212,LG 260L Fridge,Refrigerator,LG,40434,3.1,Bad quality,build qualty not good    disappointed,14-04-2024,Unknown,39,Lucknow,2,1
+215,OnePlus 11R,Smartphone,OnePlus,26178,3.1,Value for money,build qualty not good    disappointed,03-12-2024,Yes,7,Kolkata,11,2
+216,Realme Buds Air,Earbuds,Realme,30173,3.1,Decent buy,display ok   speakers average  ,30-08-2024,No,26,Bangalore,6,1
+217,Dell Inspiron 14,Laptop,Dell,13439,3,Decent buy,battery life is awsm    lasts long     ,20-05-2024,Unknown,35,Delhi,9,0
+219,Lenovo Tab M10,Tablet,Lenovo,3146,3,Value for money,battery life is awsm    lasts long     ,28-12-2024,Yes,19,Chennai,6,2
+221,Galaxy M14,Smartphone,Samsung,5386,3.1,Loved ittt,display ok   speakers average  ,08-12-2024,Unknown,38,Jaipur,3,1
+222,Realme Buds Air,Earbuds,Realme,45710,3.1,Worst experience,totally waste of money   ,02-08-2024,Yes,6,Lucknow,2,2
+223,LG 260L Fridge,Refrigerator,LG,10501,4,Loved ittt,camra quality mindblowinggg but bit costly,14-03-2024,Yes,19,Hyderabad,12,1
+225,Sony Bravia 43,Television,Sony,30302,3.1,Value for money,totally waste of money   ,03-11-2024,Yes,47,Chennai,11,0
+226,iPhone 13,Smartphone,Apple,3982,3.1,Decent buy,performance is ok ok    heating issue sometimes,13-02-2024,No,14,Mumbai,4,0
+227,OnePlus 11R,Smartphone,OnePlus,38490,3.5,Okayish,performance is ok ok    heating issue sometimes,13-02-2025,No,7,Chennai,12,1
+228,JBL Flip 5,Speaker,JBL,6644,5,Good product,performance is ok ok    heating issue sometimes,26-04-2024,Unknown,6,Bangalore,4,2
+229,Realme Buds Air,Earbuds,Realme,46810,5,Loved ittt,stopped working after   months    very bad,18-05-2024,No,3,Chennai,4,1
+230,iPhone 13,Smartphone,Apple,31651,3,Decent buy,stopped working after   months    very bad,08-10-2024,Unknown,50,Chennai,9,2
+231,iPhone 13,Smartphone,Apple,63683,5,Highly recommended,super fast   smooth performance ,22-12-2024,No,24,Chennai,3,0
+232,OnePlus 11R,Smartphone,OnePlus,13384,4,Loved ittt,display ok   speakers average  ,21-08-2024,Yes,9,Kolkata,3,1
+233,iPhone 13,Smartphone,Apple,29946,3.1,Good product,performance is ok ok    heating issue sometimes,12-05-2024,Unknown,18,Chennai,8,0
+235,Canon EOS 1500D,Camera,Canon,10264,3.5,Loved ittt,stopped working after   months    very bad,21-05-2024,No,28,Lucknow,4,0
+236,Realme Buds Air,Earbuds,Realme,18023,2,Okayish,totally waste of money   ,11-10-2024,Unknown,33,Lucknow,4,0
+237,Dell Inspiron 14,Laptop,Dell,61780,3.1,Loved ittt,sound is loud and clear   ,24-09-2024,Yes,4,Bangalore,1,1
+238,JBL Flip 5,Speaker,JBL,54981,3.1,Decent buy,build qualty not good    disappointed,01-12-2024,Yes,15,Pune,2,1
+239,Lenovo Tab M10,Tablet,Lenovo,1872,4,Bad quality,super fast   smooth performance ,06-11-2024,Yes,14,Kolkata,8,2
+240,JBL Flip 5,Speaker,JBL,4712,1,Decent buy,hangs alottt and laggy sometimes,01-06-2025,Unknown,39,Jaipur,6,2
+242,OnePlus 11R,Smartphone,OnePlus,69792,3.1,Good product,display ok   speakers average  ,12-10-2024,Yes,31,Hyderabad,8,2
+243,Redmi Note 12,Smartphone,Xiaomi,40094,3,Decent buy,camra quality mindblowinggg but bit costly,01-09-2024,Yes,25,Hyderabad,9,0
+245,Canon EOS 1500D,Camera,Canon,19536,1,Worst experience,totally waste of money   ,04-04-2024,Unknown,22,Delhi,6,0
+246,Galaxy M14,Smartphone,Samsung,43169,3.1,Loved ittt,stopped working after   months    very bad,17-01-2025,Unknown,13,Delhi,12,2
+247,Noise ColorFit Pro,Smartwatch,Noise,62553,3.1,Okayish,stopped working after   months    very bad,07-01-2025,Yes,50,Kolkata,8,2
+248,Boat Rockerz 255,Headphones,Boat,54952,3.1,Not satisfied,sound is loud and clear   ,12-11-2024,No,8,Jaipur,9,0
+249,Redmi Note 12,Smartphone,Xiaomi,35222,4,Worst experience,hangs alottt and laggy sometimes,22-02-2025,Unknown,10,Bangalore,8,0
+250,LG 260L Fridge,Refrigerator,LG,25999,2,Good product,performance is ok ok    heating issue sometimes,19-08-2024,No,1,Chennai,7,2
+251,Galaxy M14,Smartphone,Samsung,11562,3,Loved ittt,battery life is awsm    lasts long     ,05-06-2024,Yes,36,Bangalore,1,1
+252,Boat Rockerz 255,Headphones,Boat,6719,5,Value for money,sound is loud and clear   ,12-04-2024,Yes,39,Mumbai,3,2
+253,HP Pavilion 15,Laptop,HP,13465,3,Worst experience,performance is ok ok    heating issue sometimes,03-01-2024,Yes,1,Delhi,7,2
+254,iPhone 13,Smartphone,Apple,18068,3.5,Value for money,super fast   smooth performance ,21-01-2025,Unknown,5,Kolkata,9,2
+256,Boat Rockerz 255,Headphones,Boat,51466,3.1,Okayish,totally waste of money   ,06-12-2024,Yes,43,Kolkata,3,0
+257,Noise ColorFit Pro,Smartwatch,Noise,15384,3.1,Not satisfied,display ok   speakers average  ,26-08-2024,Unknown,30,Delhi,5,2
+258,Lenovo Tab M10,Tablet,Lenovo,7354,3.1,Worst experience,hangs alottt and laggy sometimes,15-03-2024,No,43,Kolkata,4,1
+259,Sony Bravia 43,Television,Sony,37975,5,Highly recommended,battery life is awsm    lasts long     ,20-06-2024,Unknown,18,Lucknow,5,1
+260,Redmi Note 12,Smartphone,Xiaomi,7292,3.1,Decent buy,camra quality mindblowinggg but bit costly,28-03-2024,No,40,Delhi,12,1
+261,Dell Inspiron 14,Laptop,Dell,11788,3,Highly recommended,sound is loud and clear   ,09-02-2024,Yes,41,Kolkata,8,0
+262,Galaxy M14,Smartphone,Samsung,43973,3,Okayish,totally waste of money   ,05-01-2024,Unknown,45,Delhi,9,1
+265,Boat Rockerz 255,Headphones,Boat,1542,5,Amazing!!!,performance is ok ok    heating issue sometimes,05-09-2024,Unknown,39,Lucknow,7,2
+267,Redmi Note 12,Smartphone,Xiaomi,16709,2,Okayish,hangs alottt and laggy sometimes,15-04-2024,No,36,Hyderabad,10,2
+268,Noise ColorFit Pro,Smartwatch,Noise,39918,3.1,Worst experience,totally waste of money   ,01-10-2024,Unknown,23,Mumbai,5,0
+269,iPhone 13,Smartphone,Apple,15360,3.5,Amazing!!!,hangs alottt and laggy sometimes,01-08-2024,No,42,Lucknow,6,2
+270,iPhone 13,Smartphone,Apple,54429,3.1,Loved ittt,camra quality mindblowinggg but bit costly,19-10-2024,Unknown,45,Lucknow,9,0
+272,iPhone 13,Smartphone,Apple,50014,3.1,Okayish,performance is ok ok    heating issue sometimes,27-04-2024,No,39,Mumbai,6,0
+273,Galaxy M14,Smartphone,Samsung,13840,3.1,Value for money,hangs alottt and laggy sometimes,17-06-2024,No,13,Jaipur,12,2
+277,Realme Buds Air,Earbuds,Realme,26705,5,Highly recommended,build qualty not good    disappointed,31-10-2024,Unknown,30,Lucknow,9,1
+278,Noise ColorFit Pro,Smartwatch,Noise,56176,3.1,Loved ittt,super fast   smooth performance ,27-12-2024,No,2,Delhi,6,0
+279,Asus Vivobook,Laptop,Asus,37737,3,Bad quality,display ok   speakers average  ,15-02-2025,Yes,33,Bangalore,2,1
+280,LG 260L Fridge,Refrigerator,LG,66271,3,Okayish,display ok   speakers average  ,11-12-2024,No,12,Chennai,8,0
+281,OnePlus 11R,Smartphone,OnePlus,35581,4,Decent buy,stopped working after   months    very bad,23-02-2025,No,38,Hyderabad,5,2
+282,Canon EOS 1500D,Camera,Canon,10766,1,Amazing!!!,performance is ok ok    heating issue sometimes,29-01-2025,Yes,19,Bangalore,1,0
+283,Noise ColorFit Pro,Smartwatch,Noise,48247,3.5,Amazing!!!,camra quality mindblowinggg but bit costly,07-03-2024,Yes,32,Jaipur,7,1
+284,Galaxy M14,Smartphone,Samsung,21444,3.1,Decent buy,camra quality mindblowinggg but bit costly,02-12-2025,No,35,Lucknow,5,1
+287,Asus Vivobook,Laptop,Asus,7530,2,Loved ittt,battery life is awsm    lasts long     ,16-01-2025,Unknown,15,Bangalore,4,2
+289,Sony Bravia 43,Television,Sony,41976,3.5,Bad quality,totally waste of money   ,08-07-2024,No,34,Kolkata,7,0
+290,Sony Bravia 43,Television,Sony,13508,2,Good product,battery life is awsm    lasts long     ,15-05-2024,Unknown,0,Lucknow,5,1
+291,LG 260L Fridge,Refrigerator,LG,53999,3.5,Okayish,build qualty not good    disappointed,05-10-2024,Unknown,33,Hyderabad,8,0
+292,iPhone 13,Smartphone,Apple,57338,1,Value for money,display ok   speakers average  ,29-12-2024,Unknown,34,Hyderabad,2,2
+296,Dell Inspiron 14,Laptop,Dell,40289,3,Amazing!!!,display ok   speakers average  ,30-07-2024,Yes,19,Delhi,1,2
+297,Dell Inspiron 14,Laptop,Dell,52285,1,Value for money,display ok   speakers average  ,27-04-2024,Unknown,10,Mumbai,7,2
+299,JBL Flip 5,Speaker,JBL,24938,3.1,Decent buy,sound is loud and clear   ,19-11-2024,Yes,30,Kolkata,3,1
+300,Galaxy M14,Smartphone,Samsung,8190,3,Loved ittt,camra quality mindblowinggg but bit costly,12-08-2024,Unknown,24,Chennai,11,0
+301,Asus Vivobook,Laptop,Asus,43252,3,Loved ittt,totally waste of money   ,18-03-2024,No,17,Kolkata,11,0
+302,Realme Buds Air,Earbuds,Realme,30713,1,Loved ittt,display ok   speakers average  ,24-07-2024,No,38,Chennai,6,0
+303,Lenovo Tab M10,Tablet,Lenovo,6773,3.1,Value for money,battery life is awsm    lasts long     ,20-03-2024,Unknown,45,Dehradun,4,0
+304,Lenovo Tab M10,Tablet,Lenovo,5083,4,Not satisfied,sound is loud and clear   ,18-02-2024,Unknown,37,Lucknow,12,2
+305,Dell Inspiron 14,Laptop,Dell,38085,3.1,Not satisfied,performance is ok ok    heating issue sometimes,13-10-2024,Yes,13,Dehradun,7,1
+307,Redmi Note 12,Smartphone,Xiaomi,15926,2,Worst experience,battery life is awsm    lasts long     ,14-11-2024,No,21,Jaipur,8,2
+308,Boat Rockerz 255,Headphones,Boat,62147,4,Value for money,performance is ok ok    heating issue sometimes,29-08-2024,Unknown,31,Jaipur,1,1
+309,Lenovo Tab M10,Tablet,Lenovo,1918,3,Good product,camra quality mindblowinggg but bit costly,02-07-2024,Yes,12,Chennai,4,0
+310,Dell Inspiron 14,Laptop,Dell,43949,3.1,Bad quality,battery life is awsm    lasts long     ,12-09-2024,Unknown,23,Lucknow,2,0
+311,iPhone 13,Smartphone,Apple,31664,5,Worst experience,performance is ok ok    heating issue sometimes,17-10-2024,Yes,16,Kolkata,1,0
+313,Canon EOS 1500D,Camera,Canon,16736,2,Loved ittt,camra quality mindblowinggg but bit costly,11-02-2024,No,32,Dehradun,3,1
+314,Sony Bravia 43,Television,Sony,31458,4,Not satisfied,totally waste of money   ,15-08-2024,No,45,Dehradun,7,1
+315,Canon EOS 1500D,Camera,Canon,3773,3.1,Bad quality,build qualty not good    disappointed,16-03-2024,No,13,Pune,10,1
+316,Realme Buds Air,Earbuds,Realme,59221,4,Value for money,stopped working after   months    very bad,19-09-2024,No,42,Bangalore,7,0
+318,Noise ColorFit Pro,Smartwatch,Noise,23960,3.1,Value for money,totally waste of money   ,25-03-2024,Unknown,48,Delhi,11,0
+319,Lenovo Tab M10,Tablet,Lenovo,60333,2,Decent buy,stopped working after   months    very bad,27-03-2024,Unknown,30,Pune,6,2
+320,Lenovo Tab M10,Tablet,Lenovo,69889,3.1,Loved ittt,build qualty not good    disappointed,14-01-2024,No,36,Pune,11,2
+321,Asus Vivobook,Laptop,Asus,1624,3.1,Bad quality,totally waste of money   ,02-07-2025,Yes,34,Delhi,12,0
+322,OnePlus 11R,Smartphone,OnePlus,24965,4,Okayish,performance is ok ok    heating issue sometimes,12-02-2024,Unknown,11,Pune,4,1
+323,HP Pavilion 15,Laptop,HP,1566,2,Worst experience,battery life is awsm    lasts long     ,19-03-2024,Yes,45,Jaipur,7,1
+324,Canon EOS 1500D,Camera,Canon,55517,3.1,Value for money,sound is loud and clear   ,16-08-2024,Yes,7,Jaipur,9,1
+325,Noise ColorFit Pro,Smartwatch,Noise,8336,1,Amazing!!!,display ok   speakers average  ,24-01-2024,Yes,0,Pune,12,0
+326,JBL Flip 5,Speaker,JBL,13214,3.1,Loved ittt,build qualty not good    disappointed,14-12-2024,Yes,1,Pune,9,2
+327,Noise ColorFit Pro,Smartwatch,Noise,51510,3.1,Decent buy,super fast   smooth performance ,04-06-2024,No,50,Pune,2,2
+328,iPhone 13,Smartphone,Apple,30112,3,Okayish,totally waste of money   ,23-08-2024,No,44,Chennai,11,0
+329,HP Pavilion 15,Laptop,HP,2868,3,Loved ittt,sound is loud and clear   ,12-06-2024,Unknown,38,Hyderabad,5,1
+332,iPhone 13,Smartphone,Apple,50970,4,Highly recommended,performance is ok ok    heating issue sometimes,02-01-2024,No,23,Dehradun,2,0
+334,OnePlus 11R,Smartphone,OnePlus,59720,3,Highly recommended,battery life is awsm    lasts long     ,03-01-2024,No,37,Kolkata,8,0
+335,Lenovo Tab M10,Tablet,Lenovo,63494,2,Good product,display ok   speakers average  ,21-03-2024,Unknown,10,Bangalore,1,0
+336,iPhone 13,Smartphone,Apple,39487,3.1,Decent buy,display ok   speakers average  ,31-01-2025,Unknown,12,Mumbai,2,1
+337,Dell Inspiron 14,Laptop,Dell,23349,3.1,Decent buy,totally waste of money   ,19-10-2024,Unknown,16,Hyderabad,10,1
+340,LG 260L Fridge,Refrigerator,LG,38375,2,Worst experience,totally waste of money   ,07-04-2024,Yes,39,Lucknow,12,0
+341,Boat Rockerz 255,Headphones,Boat,25173,3.1,Bad quality,stopped working after   months    very bad,18-10-2024,No,30,Bangalore,9,0
+342,JBL Flip 5,Speaker,JBL,55020,3,Loved ittt,stopped working after   months    very bad,19-02-2025,No,43,Kolkata,5,0
+343,Realme Buds Air,Earbuds,Realme,67979,3,Bad quality,build qualty not good    disappointed,20-08-2024,Yes,45,Dehradun,7,0
+344,Realme Buds Air,Earbuds,Realme,23617,3.1,Decent buy,totally waste of money   ,24-12-2024,No,33,Delhi,8,0
+345,Realme Buds Air,Earbuds,Realme,13793,5,Bad quality,hangs alottt and laggy sometimes,13-03-2024,Unknown,10,Mumbai,6,2
+347,Dell Inspiron 14,Laptop,Dell,10437,1,Amazing!!!,display ok   speakers average  ,31-03-2024,No,25,Kolkata,8,0
+348,Canon EOS 1500D,Camera,Canon,52106,3.1,Okayish,stopped working after   months    very bad,16-02-2025,No,30,Delhi,6,2
+350,Galaxy M14,Smartphone,Samsung,42915,3.1,Amazing!!!,super fast   smooth performance ,05-10-2024,Yes,47,Lucknow,9,2
+351,Asus Vivobook,Laptop,Asus,16627,2,Not satisfied,battery life is awsm    lasts long     ,07-06-2024,Yes,40,Dehradun,11,1
+354,LG 260L Fridge,Refrigerator,LG,9337,5,Decent buy,totally waste of money   ,25-07-2024,No,8,Mumbai,11,2
+356,Redmi Note 12,Smartphone,Xiaomi,39172,3.1,Okayish,battery life is awsm    lasts long     ,27-08-2024,No,46,Delhi,6,0
+357,Galaxy M14,Smartphone,Samsung,16389,3.1,Highly recommended,sound is loud and clear   ,23-12-2024,Yes,46,Mumbai,8,0
+359,Galaxy M14,Smartphone,Samsung,66263,1,Value for money,performance is ok ok    heating issue sometimes,04-07-2024,No,2,Lucknow,7,2
+360,Sony Bravia 43,Television,Sony,43696,3.1,Not satisfied,stopped working after   months    very bad,01-03-2024,Yes,7,Jaipur,10,2
+361,Sony Bravia 43,Television,Sony,4347,3.5,Not satisfied,stopped working after   months    very bad,13-01-2025,No,35,Mumbai,4,1
+362,Boat Rockerz 255,Headphones,Boat,1548,3.5,Good product,super fast   smooth performance ,23-09-2024,No,4,Jaipur,1,1
+364,Asus Vivobook,Laptop,Asus,56731,3.1,Bad quality,super fast   smooth performance ,23-03-2024,No,30,Bangalore,12,1
+365,JBL Flip 5,Speaker,JBL,13559,3.1,Amazing!!!,super fast   smooth performance ,27-09-2024,Unknown,33,Mumbai,4,2
+366,Boat Rockerz 255,Headphones,Boat,55709,1,Worst experience,battery life is awsm    lasts long     ,13-05-2024,Unknown,5,Pune,5,1
+368,Sony Bravia 43,Television,Sony,65257,4,Worst experience,display ok   speakers average  ,25-11-2024,Unknown,2,Dehradun,4,0
+369,iPhone 13,Smartphone,Apple,66850,3.1,Value for money,battery life is awsm    lasts long     ,27-01-2025,Yes,13,Bangalore,9,0
+370,Redmi Note 12,Smartphone,Xiaomi,24046,3.1,Good product,performance is ok ok    heating issue sometimes,21-05-2024,No,13,Dehradun,3,1
+371,iPhone 13,Smartphone,Apple,10515,3.1,Okayish,battery life is awsm    lasts long     ,23-11-2024,No,21,Bangalore,8,1
+372,Boat Rockerz 255,Headphones,Boat,46110,3,Not satisfied,battery life is awsm    lasts long     ,21-01-2025,Unknown,12,Jaipur,11,2
+373,Boat Rockerz 255,Headphones,Boat,40152,4,Worst experience,super fast   smooth performance ,05-09-2024,Yes,24,Dehradun,9,2
+376,Sony Bravia 43,Television,Sony,41745,4,Decent buy,battery life is awsm    lasts long     ,23-01-2025,Yes,33,Dehradun,7,0
+378,Canon EOS 1500D,Camera,Canon,43832,4,Bad quality,display ok   speakers average  ,22-05-2024,Unknown,5,Jaipur,11,1
+379,iPhone 13,Smartphone,Apple,51263,3.1,Amazing!!!,battery life is awsm    lasts long     ,29-06-2024,Yes,10,Dehradun,1,2
+380,HP Pavilion 15,Laptop,HP,39491,3,Good product,stopped working after   months    very bad,26-10-2024,No,37,Pune,7,1
+385,Redmi Note 12,Smartphone,Xiaomi,54372,3.5,Worst experience,build qualty not good    disappointed,03-01-2024,No,24,Chennai,10,2
+386,Realme Buds Air,Earbuds,Realme,62787,3.5,Decent buy,sound is loud and clear   ,20-05-2024,No,23,Bangalore,8,1
+388,LG 260L Fridge,Refrigerator,LG,31324,3,Value for money,sound is loud and clear   ,01-01-2024,Yes,30,Pune,10,2
+389,Lenovo Tab M10,Tablet,Lenovo,44998,5,Good product,camra quality mindblowinggg but bit costly,07-09-2024,Unknown,48,Pune,1,1
+390,Lenovo Tab M10,Tablet,Lenovo,61796,3.5,Worst experience,super fast   smooth performance ,12-10-2024,No,47,Bangalore,10,1
+391,JBL Flip 5,Speaker,JBL,32066,3,Good product,hangs alottt and laggy sometimes,07-10-2024,No,10,Chennai,3,0
+392,Redmi Note 12,Smartphone,Xiaomi,14321,1,Bad quality,display ok   speakers average  ,01-06-2024,Yes,15,Bangalore,9,2
+393,Redmi Note 12,Smartphone,Xiaomi,3421,3.5,Okayish,performance is ok ok    heating issue sometimes,19-03-2024,No,38,Pune,11,0
+394,Lenovo Tab M10,Tablet,Lenovo,46493,1,Bad quality,totally waste of money   ,29-03-2024,Yes,11,Hyderabad,12,1
+395,Noise ColorFit Pro,Smartwatch,Noise,25246,3.1,Decent buy,super fast   smooth performance ,29-07-2024,Unknown,45,Lucknow,9,2
+396,Redmi Note 12,Smartphone,Xiaomi,2161,4,Highly recommended,super fast   smooth performance ,30-12-2024,No,49,Lucknow,4,1
+397,LG 260L Fridge,Refrigerator,LG,44468,3.1,Not satisfied,build qualty not good    disappointed,09-01-2024,Yes,35,Hyderabad,12,0
+398,Lenovo Tab M10,Tablet,Lenovo,60436,3.1,Value for money,display ok   speakers average  ,13-02-2024,Unknown,39,Chennai,4,2
+399,OnePlus 11R,Smartphone,OnePlus,1759,3,Bad quality,performance is ok ok    heating issue sometimes,11-07-2024,Yes,22,Dehradun,11,0
+400,iPhone 13,Smartphone,Apple,33408,3,Not satisfied,build qualty not good    disappointed,28-02-2025,No,15,Jaipur,11,2
+401,Asus Vivobook,Laptop,Asus,5187,5,Good product,display ok   speakers average  ,14-10-2024,Unknown,27,Delhi,2,1
+402,Boat Rockerz 255,Headphones,Boat,31609,3,Good product,build qualty not good    disappointed,10-01-2024,Yes,31,Bangalore,1,1
+404,Dell Inspiron 14,Laptop,Dell,61839,3.1,Decent buy,performance is ok ok    heating issue sometimes,12-03-2024,Unknown,11,Kolkata,1,0
+405,JBL Flip 5,Speaker,JBL,58729,3.1,Not satisfied,camra quality mindblowinggg but bit costly,02-03-2024,No,41,Kolkata,2,0
+406,Boat Rockerz 255,Headphones,Boat,56489,3.1,Worst experience,stopped working after   months    very bad,31-07-2024,Yes,35,Pune,4,2
+407,Realme Buds Air,Earbuds,Realme,2183,1,Worst experience,battery life is awsm    lasts long     ,15-01-2024,No,5,Chennai,3,2
+408,LG 260L Fridge,Refrigerator,LG,14138,3.1,Highly recommended,battery life is awsm    lasts long     ,19-07-2024,Yes,50,Lucknow,8,2
+410,HP Pavilion 15,Laptop,HP,52897,2,Not satisfied,battery life is awsm    lasts long     ,16-03-2024,No,0,Delhi,5,2
+411,Boat Rockerz 255,Headphones,Boat,18624,3.5,Not satisfied,battery life is awsm    lasts long     ,23-01-2024,Yes,22,Kolkata,2,2
+412,JBL Flip 5,Speaker,JBL,63070,4,Bad quality,sound is loud and clear   ,06-10-2024,Unknown,38,Mumbai,11,2
+413,Boat Rockerz 255,Headphones,Boat,51146,3.1,Loved ittt,camra quality mindblowinggg but bit costly,10-05-2024,Yes,30,Dehradun,1,0
+414,Redmi Note 12,Smartphone,Xiaomi,57261,3,Highly recommended,build qualty not good    disappointed,07-03-2024,No,43,Delhi,3,0
+416,Canon EOS 1500D,Camera,Canon,12445,2,Loved ittt,super fast   smooth performance ,05-09-2024,No,45,Lucknow,9,2
+417,Sony Bravia 43,Television,Sony,29119,4,Amazing!!!,hangs alottt and laggy sometimes,20-09-2024,Yes,2,Bangalore,5,0
+418,Boat Rockerz 255,Headphones,Boat,43186,3,Loved ittt,display ok   speakers average  ,29-11-2024,Yes,20,Lucknow,8,0
+419,Sony Bravia 43,Television,Sony,21035,5,Decent buy,hangs alottt and laggy sometimes,11-09-2024,No,48,Hyderabad,11,1
+420,Asus Vivobook,Laptop,Asus,47859,3,Loved ittt,hangs alottt and laggy sometimes,02-09-2024,No,3,Mumbai,6,2
+421,Asus Vivobook,Laptop,Asus,22377,3.1,Okayish,display ok   speakers average  ,07-09-2024,Unknown,48,Chennai,12,0
+423,Galaxy M14,Smartphone,Samsung,59222,1,Not satisfied,stopped working after   months    very bad,27-11-2024,No,14,Jaipur,2,0
+427,Boat Rockerz 255,Headphones,Boat,69148,5,Worst experience,hangs alottt and laggy sometimes,21-10-2024,No,15,Jaipur,1,1
+430,LG 260L Fridge,Refrigerator,LG,26099,2,Worst experience,battery life is awsm    lasts long     ,27-09-2024,Unknown,47,Mumbai,12,2
+431,Realme Buds Air,Earbuds,Realme,13165,1,Highly recommended,display ok   speakers average  ,05-05-2024,Unknown,48,Delhi,8,0
+432,OnePlus 11R,Smartphone,OnePlus,15410,3.1,Loved ittt,sound is loud and clear   ,23-12-2024,Unknown,2,Pune,2,2
+433,Dell Inspiron 14,Laptop,Dell,26623,3.1,Loved ittt,display ok   speakers average  ,07-01-2024,Unknown,19,Mumbai,6,2
+435,Boat Rockerz 255,Headphones,Boat,53169,1,Highly recommended,build qualty not good    disappointed,13-10-2024,No,23,Jaipur,3,1
+436,Lenovo Tab M10,Tablet,Lenovo,55351,3.5,Okayish,display ok   speakers average  ,23-08-2024,No,50,Hyderabad,1,0
+437,JBL Flip 5,Speaker,JBL,46146,3.5,Good product,sound is loud and clear   ,23-12-2024,Yes,42,Lucknow,11,0
+439,Noise ColorFit Pro,Smartwatch,Noise,16997,5,Bad quality,build qualty not good    disappointed,08-01-2025,Unknown,44,Delhi,7,1
+440,Noise ColorFit Pro,Smartwatch,Noise,22805,1,Not satisfied,build qualty not good    disappointed,17-04-2024,Unknown,5,Bangalore,8,0
+441,Lenovo Tab M10,Tablet,Lenovo,11123,2,Good product,build qualty not good    disappointed,12-06-2024,Yes,38,Lucknow,11,1
+444,Redmi Note 12,Smartphone,Xiaomi,58828,3.1,Okayish,sound is loud and clear   ,23-10-2024,Yes,25,Hyderabad,10,0
+446,Dell Inspiron 14,Laptop,Dell,23296,3.5,Value for money,battery life is awsm    lasts long     ,04-12-2024,No,20,Bangalore,2,1
+447,Sony Bravia 43,Television,Sony,25439,5,Okayish,hangs alottt and laggy sometimes,16-11-2024,No,49,Kolkata,7,2
+449,Dell Inspiron 14,Laptop,Dell,47810,2,Value for money,hangs alottt and laggy sometimes,14-05-2024,No,7,Mumbai,6,2
+450,Sony Bravia 43,Television,Sony,55405,3.1,Amazing!!!,camra quality mindblowinggg but bit costly,23-07-2024,Unknown,42,Jaipur,9,2
+452,Asus Vivobook,Laptop,Asus,51804,3.1,Not satisfied,display ok   speakers average  ,29-01-2024,No,24,Chennai,1,0
+453,Canon EOS 1500D,Camera,Canon,16123,1,Loved ittt,build qualty not good    disappointed,05-05-2024,Yes,29,Kolkata,4,1
+454,OnePlus 11R,Smartphone,OnePlus,22358,2,Decent buy,super fast   smooth performance ,02-11-2024,No,31,Mumbai,7,1
+455,Lenovo Tab M10,Tablet,Lenovo,27988,3.1,Highly recommended,display ok   speakers average  ,03-04-2024,Yes,35,Chennai,7,1
+456,Lenovo Tab M10,Tablet,Lenovo,42450,3.1,Amazing!!!,sound is loud and clear   ,05-07-2024,No,9,Chennai,11,0
+457,Boat Rockerz 255,Headphones,Boat,50128,1,Bad quality,super fast   smooth performance ,15-01-2025,Unknown,49,Chennai,6,0
+458,Sony Bravia 43,Television,Sony,18852,2,Loved ittt,super fast   smooth performance ,16-12-2024,Unknown,19,Delhi,7,1
+459,JBL Flip 5,Speaker,JBL,49494,3.1,Bad quality,camra quality mindblowinggg but bit costly,27-01-2025,Yes,21,Dehradun,3,1
+462,HP Pavilion 15,Laptop,HP,21092,3.1,Okayish,sound is loud and clear   ,18-04-2024,Yes,16,Delhi,12,1
+463,Galaxy M14,Smartphone,Samsung,42887,1,Worst experience,camra quality mindblowinggg but bit costly,01-08-2024,Unknown,11,Lucknow,5,2
+464,Lenovo Tab M10,Tablet,Lenovo,7330,3.5,Good product,camra quality mindblowinggg but bit costly,18-05-2024,Yes,44,Jaipur,11,0
+466,Lenovo Tab M10,Tablet,Lenovo,16160,5,Not satisfied,build qualty not good    disappointed,15-06-2024,No,35,Hyderabad,8,0
+467,Sony Bravia 43,Television,Sony,4151,5,Not satisfied,display ok   speakers average  ,16-09-2024,No,16,Chennai,9,0
+468,Asus Vivobook,Laptop,Asus,21824,1,Not satisfied,hangs alottt and laggy sometimes,01-10-2024,Yes,17,Hyderabad,7,0
+469,JBL Flip 5,Speaker,JBL,50783,1,Amazing!!!,hangs alottt and laggy sometimes,01-11-2024,Yes,17,Bangalore,10,2
+470,Canon EOS 1500D,Camera,Canon,46522,5,Not satisfied,stopped working after   months    very bad,26-08-2024,No,2,Pune,8,0
+471,JBL Flip 5,Speaker,JBL,48311,3,Okayish,super fast   smooth performance ,05-01-2024,Unknown,14,Kolkata,8,1
+472,OnePlus 11R,Smartphone,OnePlus,27823,2,Amazing!!!,camra quality mindblowinggg but bit costly,11-01-2024,No,26,Bangalore,10,0
+475,Redmi Note 12,Smartphone,Xiaomi,33287,2,Good product,totally waste of money   ,28-01-2024,Unknown,27,Mumbai,10,2
+478,OnePlus 11R,Smartphone,OnePlus,15571,4,Bad quality,super fast   smooth performance ,17-05-2024,Yes,37,Mumbai,6,1
+479,Sony Bravia 43,Television,Sony,7306,1,Good product,performance is ok ok    heating issue sometimes,02-06-2025,No,41,Lucknow,1,2
+482,Asus Vivobook,Laptop,Asus,16690,5,Worst experience,sound is loud and clear   ,19-03-2024,Unknown,31,Pune,4,2
+483,Sony Bravia 43,Television,Sony,69503,3.1,Not satisfied,super fast   smooth performance ,18-02-2025,No,6,Dehradun,2,2
+484,LG 260L Fridge,Refrigerator,LG,62705,5,Worst experience,sound is loud and clear   ,14-11-2024,Unknown,50,Hyderabad,1,2
+485,Galaxy M14,Smartphone,Samsung,33426,3.1,Highly recommended,display ok   speakers average  ,19-09-2024,Unknown,6,Lucknow,9,1
+486,Asus Vivobook,Laptop,Asus,2898,2,Not satisfied,performance is ok ok    heating issue sometimes,07-11-2024,No,25,Bangalore,2,0
+487,Sony Bravia 43,Television,Sony,46136,3.1,Value for money,camra quality mindblowinggg but bit costly,02-12-2024,Unknown,8,Bangalore,12,0
+488,OnePlus 11R,Smartphone,OnePlus,25609,3.1,Worst experience,stopped working after   months    very bad,27-02-2024,No,8,Dehradun,11,0
+489,OnePlus 11R,Smartphone,OnePlus,8460,1,Okayish,totally waste of money   ,19-10-2024,Unknown,15,Dehradun,6,1
+490,Asus Vivobook,Laptop,Asus,48838,2,Amazing!!!,sound is loud and clear   ,03-09-2024,No,23,Delhi,2,0
+492,Boat Rockerz 255,Headphones,Boat,62663,3.1,Highly recommended,super fast   smooth performance ,19-02-2024,Yes,7,Dehradun,10,0
+493,Noise ColorFit Pro,Smartwatch,Noise,22135,3.1,Highly recommended,camra quality mindblowinggg but bit costly,06-02-2024,Yes,14,Pune,9,2
+494,Boat Rockerz 255,Headphones,Boat,40366,3.1,Bad quality,battery life is awsm    lasts long     ,26-02-2025,Yes,31,Jaipur,6,2
+496,LG 260L Fridge,Refrigerator,LG,19500,3.1,Good product,build qualty not good    disappointed,28-02-2024,No,10,Delhi,5,2
+498,Canon EOS 1500D,Camera,Canon,25017,1,Loved ittt,build qualty not good    disappointed,10-03-2024,Unknown,34,Chennai,9,2
+499,Canon EOS 1500D,Camera,Canon,33610,3.1,Decent buy,totally waste of money   ,14-03-2024,Yes,13,Mumbai,2,1
+500,Boat Rockerz 255,Headphones,Boat,54597,3.1,Highly recommended,build qualty not good    disappointed,15-10-2024,Unknown,38,Delhi,1,1
+501,Noise ColorFit Pro,Smartwatch,Noise,33180,3,Good product,camra quality mindblowinggg but bit costly,29-04-2024,Yes,42,Hyderabad,6,0
+503,Dell Inspiron 14,Laptop,Dell,48278,3.1,Not satisfied,battery life is awsm    lasts long     ,06-04-2024,Unknown,32,Hyderabad,3,2
+504,Asus Vivobook,Laptop,Asus,72190,3.1,Bad quality,performance is ok ok    heating issue sometimes,27-06-2024,Unknown,38,Lucknow,12,2
+505,Noise ColorFit Pro,Smartwatch,Noise,36785,1,Highly recommended,packaging was torn   delivery late   ,15-05-2024,Yes,20,Chandigarh,10,1
+507,LG 260L Fridge,Refrigerator,LG,78523,1,Bad quality,super fast   smooth performance ,18-09-2024,No,58,Mumbai,2,1
+508,Boat Rockerz 255,Headphones,Boat,25185,3.5,Good product,build qualty not good    disappointed,16-03-2024,Yes,91,Mumbai,11,1
+509,Realme Buds Air,Earbuds,Realme,4055,3.1,Bad quality,super fast   smooth performance ,23-02-2025,Yes,70,Noida,18,2
+510,Boat Rockerz 255,Headphones,Boat,64765,3.1,Loved ittt,after update device dead   ,21-04-2024,No,20,Chandigarh,4,0
+512,Sony Bravia 43,Television,Sony,5150,3.1,Amazing!!!,stopped working after   months    very bad,02-07-2024,No,18,Jaipur,5,2
+514,Noise ColorFit Pro,Smartwatch,Noise,26420,3.1,Not satisfied,packaging was torn   delivery late   ,31-08-2024,Unknown,82,Hyderabad,11,0
+515,Dell Inspiron 14,Laptop,Dell,31432,4,Not satisfied,battery life is awsm    lasts long     ,21-01-2025,No,84,Lucknow,7,2
+516,Dell Inspiron 14,Laptop,Dell,21480,5,Not satisfied,build qualty not good    disappointed,24-10-2024,No,3,Noida,4,2
+517,Redmi Note 12,Smartphone,Xiaomi,5182,3.1,Amazing!!!,packaging was torn   delivery late   ,11-06-2024,No,54,Noida,14,1
+518,Lenovo Tab M10,Tablet,Lenovo,36376,2,Worst experience,totally waste of money   ,23-05-2024,Unknown,7,Noida,6,2
+519,JBL Flip 5,Speaker,JBL,68450,3.5,Wasteee,after update device dead   ,25-07-2024,No,10,Noida,16,0
+520,Boat Rockerz 255,Headphones,Boat,9525,3.5,Highly recommended,battery life is awsm    lasts long     ,04-06-2024,No,48,Mumbai,10,1
+522,Boat Rockerz 255,Headphones,Boat,14031,3.1,Amazing!!!,battery life is awsm    lasts long     ,28-07-2024,No,67,Noida,18,1
+523,Redmi Note 12,Smartphone,Xiaomi,12073,3.1,Worst experience,hangs alottt and laggy sometimes,14-06-2024,Yes,71,Mumbai,6,1
+524,Galaxy M14,Smartphone,Samsung,57160,3.1,Wasteee,sound is loud and clear   ,30-06-2024,Yes,15,Chandigarh,18,2
+526,Redmi Note 12,Smartphone,Xiaomi,55694,3.5,Not satisfied,build qualty not good    disappointed,22-02-2025,No,95,Noida,4,1
+527,iPhone 13,Smartphone,Apple,35943,5,Superbbb,battery life is awsm    lasts long     ,07-02-2024,Yes,9,Dehradun,13,1
+528,JBL Flip 5,Speaker,JBL,72475,3,Not satisfied,packaging was torn   delivery late   ,29-01-2025,Unknown,19,Jaipur,16,0
+530,HP Pavilion 15,Laptop,HP,51126,3.1,Decent buy,after update device dead   ,20-09-2024,No,10,Hyderabad,3,0
+531,Realme Buds Air,Earbuds,Realme,15110,3.1,Loved ittt,camra quality mindblowinggg but bit costly,22-10-2024,Yes,69,Jaipur,18,1
+532,HP Pavilion 15,Laptop,HP,15771,3,Bad quality,performance is ok ok    heating issue sometimes,02-09-2024,No,86,Dehradun,16,2
+533,LG 260L Fridge,Refrigerator,LG,77506,1,Worst experience,battery life is awsm    lasts long     ,24-08-2024,Yes,88,Bangalore,16,0
+534,JBL Flip 5,Speaker,JBL,73780,3.1,Okayish,sound is loud and clear   ,18-02-2025,Yes,22,Mumbai,13,0
+536,Noise ColorFit Pro,Smartwatch,Noise,44357,3.1,Value for money,performance is ok ok    heating issue sometimes,25-07-2024,No,68,Noida,11,1
+539,Dell Inspiron 14,Laptop,Dell,71072,3.1,Superbbb,battery life is awsm    lasts long     ,24-02-2024,Yes,4,Dehradun,2,2
+540,iPhone 13,Smartphone,Apple,27742,3.1,Good product,hangs alottt and laggy sometimes,03-03-2025,Yes,6,Lucknow,9,1
+541,Lenovo Tab M10,Tablet,Lenovo,55085,3.1,Superbbb,hangs alottt and laggy sometimes,09-12-2024,Yes,12,Lucknow,9,0
+545,JBL Flip 5,Speaker,JBL,12867,3.1,Highly recommended,stopped working after   months    very bad,03-02-2024,Yes,0,Pune,5,2
+546,HP Pavilion 15,Laptop,HP,31983,3.1,Superbbb,stopped working after   months    very bad,28-06-2024,No,51,Mumbai,18,1
+547,OnePlus 11R,Smartphone,OnePlus,25302,3.1,Amazing!!!,sound is loud and clear   ,10-10-2024,No,7,Pune,1,1
+548,Dell Inspiron 14,Laptop,Dell,26298,3,Good product,camra quality mindblowinggg but bit costly,28-12-2024,Yes,53,Lucknow,7,2
+551,OnePlus 11R,Smartphone,OnePlus,48431,3.1,Superbbb,packaging was torn   delivery late   ,26-05-2024,No,4,Delhi,12,2
+553,Asus Vivobook,Laptop,Asus,71601,3,Worst experience,display ok   speakers average  ,02-01-2025,Yes,78,Pune,4,2
+554,Boat Rockerz 255,Headphones,Boat,63437,3.1,Superbbb,super fast   smooth performance ,08-06-2024,No,75,Pune,1,1
+555,Sony Bravia 43,Television,Sony,2763,2,Wasteee,display ok   speakers average  ,11-07-2024,Yes,87,Dehradun,18,0
+556,Galaxy M14,Smartphone,Samsung,71612,3.1,Decent buy,packaging was torn   delivery late   ,15-11-2024,Unknown,65,Pune,13,2
+558,Redmi Note 12,Smartphone,Xiaomi,9590,1,Amazing!!!,after update device dead   ,25-04-2024,Yes,17,Chandigarh,1,0
+559,Galaxy M14,Smartphone,Samsung,14791,3.1,Worst experience,battery life is awsm    lasts long     ,21-01-2024,Unknown,25,Kolkata,1,2
+560,Noise ColorFit Pro,Smartwatch,Noise,17063,3.1,Not satisfied,sound is loud and clear   ,22-01-2025,Yes,74,Hyderabad,14,2
+563,Redmi Note 12,Smartphone,Xiaomi,40708,3.5,Value for money,camra quality mindblowinggg but bit costly,03-03-2025,Unknown,63,Chennai,12,2
+564,Boat Rockerz 255,Headphones,Boat,45897,3.1,Amazing!!!,display ok   speakers average  ,20-12-2024,Unknown,16,Lucknow,8,2
+565,Galaxy M14,Smartphone,Samsung,35958,3.1,Decent buy,hangs alottt and laggy sometimes,01-11-2024,Unknown,56,Kolkata,18,2
+566,JBL Flip 5,Speaker,JBL,7097,3.5,Worst experience,packaging was torn   delivery late   ,11-09-2024,Yes,30,Kolkata,9,1
+567,Sony Bravia 43,Television,Sony,41995,3.1,Loved ittt,battery life is awsm    lasts long     ,08-12-2024,No,60,Chennai,16,1
+568,JBL Flip 5,Speaker,JBL,46095,3.5,Worst experience,totally waste of money   ,20-11-2024,Yes,25,Chennai,2,1
+571,OnePlus 11R,Smartphone,OnePlus,28052,1,Decent buy,hangs alottt and laggy sometimes,18-02-2024,No,61,Delhi,5,1
+572,Lenovo Tab M10,Tablet,Lenovo,33414,3.1,Worst experience,sound is loud and clear   ,28-12-2024,Yes,24,Noida,5,2
+573,Canon EOS 1500D,Camera,Canon,50317,3.1,Superbbb,display ok   speakers average  ,22-07-2024,Yes,84,Hyderabad,9,2
+574,Realme Buds Air,Earbuds,Realme,47458,3.1,Superbbb,camra quality mindblowinggg but bit costly,01-11-2024,Yes,45,Chandigarh,12,2
+575,Noise ColorFit Pro,Smartwatch,Noise,54654,3.5,Highly recommended,sound is loud and clear   ,06-09-2024,Unknown,81,Delhi,7,2
+576,Boat Rockerz 255,Headphones,Boat,46368,3.1,Wasteee,performance is ok ok    heating issue sometimes,03-12-2025,No,100,Kolkata,1,2
+579,Lenovo Tab M10,Tablet,Lenovo,44889,2,Worst experience,totally waste of money   ,01-05-2025,Yes,53,Hyderabad,18,2
+580,Redmi Note 12,Smartphone,Xiaomi,32337,4,Okayish,after update device dead   ,15-06-2024,Yes,59,Pune,11,2
+581,Dell Inspiron 14,Laptop,Dell,78511,3.1,Okayish,battery life is awsm    lasts long     ,04-09-2024,No,92,Dehradun,8,0
+583,Dell Inspiron 14,Laptop,Dell,79823,3.1,Bad quality,battery life is awsm    lasts long     ,10-10-2024,No,57,Pune,6,0
+584,JBL Flip 5,Speaker,JBL,4927,3.1,Highly recommended,build qualty not good    disappointed,25-04-2024,Yes,19,Jaipur,3,1
+585,LG 260L Fridge,Refrigerator,LG,74521,3.1,Okayish,packaging was torn   delivery late   ,01-05-2024,Unknown,91,Delhi,15,2
+586,Realme Buds Air,Earbuds,Realme,44732,5,Not satisfied,sound is loud and clear   ,20-09-2024,Yes,40,Hyderabad,10,2
+588,LG 260L Fridge,Refrigerator,LG,73915,3.1,Highly recommended,build qualty not good    disappointed,12-03-2024,No,3,Kolkata,9,1
+589,Asus Vivobook,Laptop,Asus,54262,1,Not satisfied,super fast   smooth performance ,08-02-2024,Unknown,81,Delhi,9,1
+591,Lenovo Tab M10,Tablet,Lenovo,60367,3.1,Amazing!!!,build qualty not good    disappointed,08-02-2024,Unknown,41,Pune,7,1
+593,OnePlus 11R,Smartphone,OnePlus,1978,3.1,Good product,totally waste of money   ,29-02-2024,Yes,25,Jaipur,14,2
+594,iPhone 13,Smartphone,Apple,36741,3.1,Highly recommended,super fast   smooth performance ,28-09-2024,Yes,71,Dehradun,3,1
+596,Lenovo Tab M10,Tablet,Lenovo,31194,5,Superbbb,after update device dead   ,01-10-2024,No,81,Bangalore,6,2
+600,Asus Vivobook,Laptop,Asus,41682,5,Decent buy,performance is ok ok    heating issue sometimes,07-01-2024,Yes,2,Hyderabad,11,1
+601,Boat Rockerz 255,Headphones,Boat,17793,3,Good product,totally waste of money   ,01-01-2025,Unknown,16,Jaipur,17,2
+602,iPhone 13,Smartphone,Apple,26542,3.1,Loved ittt,battery life is awsm    lasts long     ,20-12-2024,Yes,31,Chennai,16,1
+603,Sony Bravia 43,Television,Sony,36991,3.1,Superbbb,performance is ok ok    heating issue sometimes,13-01-2025,Yes,62,Chennai,4,1
+604,Realme Buds Air,Earbuds,Realme,5170,2,Decent buy,battery life is awsm    lasts long     ,28-01-2025,Unknown,34,Pune,11,1
+605,Sony Bravia 43,Television,Sony,7017,4,Not satisfied,totally waste of money   ,09-03-2025,Yes,97,Delhi,3,0
+606,Boat Rockerz 255,Headphones,Boat,73742,3.1,Loved ittt,super fast   smooth performance ,13-07-2024,Unknown,44,Noida,3,0
+609,Dell Inspiron 14,Laptop,Dell,25869,4,Value for money,after update device dead   ,26-08-2024,Unknown,55,Mumbai,12,0
+611,Asus Vivobook,Laptop,Asus,17031,3.5,Bad quality,packaging was torn   delivery late   ,04-02-2024,Unknown,38,Mumbai,6,0
+612,Asus Vivobook,Laptop,Asus,45461,2,Bad quality,hangs alottt and laggy sometimes,12-06-2024,Yes,9,Jaipur,16,0
+613,Realme Buds Air,Earbuds,Realme,35782,4,Superbbb,battery life is awsm    lasts long     ,28-07-2024,Unknown,76,Bangalore,15,2
+614,Realme Buds Air,Earbuds,Realme,26653,3.5,Value for money,sound is loud and clear   ,09-03-2024,Yes,86,Pune,7,2
+615,OnePlus 11R,Smartphone,OnePlus,17400,3.1,Loved ittt,hangs alottt and laggy sometimes,17-02-2024,Yes,14,Mumbai,17,1
+616,HP Pavilion 15,Laptop,HP,53990,3.1,Okayish,performance is ok ok    heating issue sometimes,01-07-2024,Unknown,37,Delhi,6,2
+617,Sony Bravia 43,Television,Sony,5374,3.1,Highly recommended,build qualty not good    disappointed,12-09-2024,Yes,92,Hyderabad,12,2
+619,JBL Flip 5,Speaker,JBL,60176,1,Amazing!!!,build qualty not good    disappointed,20-06-2024,No,10,Chennai,4,2
+620,Boat Rockerz 255,Headphones,Boat,58776,3,Amazing!!!,stopped working after   months    very bad,23-01-2024,Yes,98,Pune,12,1
+621,HP Pavilion 15,Laptop,HP,11376,3.1,Wasteee,camra quality mindblowinggg but bit costly,27-03-2024,Yes,70,Jaipur,1,1
+622,OnePlus 11R,Smartphone,OnePlus,22421,3.1,Loved ittt,battery life is awsm    lasts long     ,11-09-2024,Yes,2,Dehradun,6,1
+623,JBL Flip 5,Speaker,JBL,64104,3.1,Superbbb,camra quality mindblowinggg but bit costly,27-09-2024,No,3,Mumbai,2,2
+624,Asus Vivobook,Laptop,Asus,55314,3.1,Okayish,sound is loud and clear   ,16-12-2024,Yes,84,Lucknow,9,1
+626,Boat Rockerz 255,Headphones,Boat,17382,4,Superbbb,display ok   speakers average  ,08-10-2024,Unknown,40,Hyderabad,15,2
+627,Lenovo Tab M10,Tablet,Lenovo,71846,4,Superbbb,build qualty not good    disappointed,03-10-2024,Yes,81,Delhi,11,1
+629,Realme Buds Air,Earbuds,Realme,17501,3,Worst experience,sound is loud and clear   ,27-05-2024,Yes,73,Lucknow,14,1
+630,Sony Bravia 43,Television,Sony,14779,3,Value for money,packaging was torn   delivery late   ,03-11-2025,Yes,64,Chandigarh,14,0
+631,LG 260L Fridge,Refrigerator,LG,23043,3.1,Highly recommended,battery life is awsm    lasts long     ,02-03-2024,No,69,Delhi,9,0
+633,OnePlus 11R,Smartphone,OnePlus,70339,3.1,Okayish,performance is ok ok    heating issue sometimes,27-03-2024,Unknown,87,Chennai,14,1
+634,Redmi Note 12,Smartphone,Xiaomi,35928,3.1,Superbbb,performance is ok ok    heating issue sometimes,08-01-2024,Unknown,56,Chandigarh,17,2
+635,iPhone 13,Smartphone,Apple,55807,5,Bad quality,sound is loud and clear   ,05-07-2024,No,82,Jaipur,9,2
+636,HP Pavilion 15,Laptop,HP,9198,3.1,Okayish,performance is ok ok    heating issue sometimes,31-12-2024,Unknown,91,Delhi,13,1
+638,Lenovo Tab M10,Tablet,Lenovo,14036,2,Amazing!!!,performance is ok ok    heating issue sometimes,16-07-2024,Yes,59,Delhi,12,1
+639,LG 260L Fridge,Refrigerator,LG,50143,4,Loved ittt,stopped working after   months    very bad,05-12-2024,Unknown,64,Hyderabad,13,0
+640,Sony Bravia 43,Television,Sony,64495,3.1,Okayish,sound is loud and clear   ,06-09-2024,Unknown,13,Delhi,3,2
+641,Boat Rockerz 255,Headphones,Boat,63281,3.1,Not satisfied,performance is ok ok    heating issue sometimes,31-03-2024,Yes,8,Delhi,2,0
+643,LG 260L Fridge,Refrigerator,LG,61106,3.1,Worst experience,build qualty not good    disappointed,09-08-2024,Yes,28,Chennai,10,2
+644,Redmi Note 12,Smartphone,Xiaomi,19167,3,Good product,battery life is awsm    lasts long     ,17-10-2024,No,51,Hyderabad,2,1
+645,iPhone 13,Smartphone,Apple,48746,5,Decent buy,build qualty not good    disappointed,21-07-2024,Yes,37,Lucknow,3,2
+646,Galaxy M14,Smartphone,Samsung,46967,5,Value for money,super fast   smooth performance ,18-08-2024,Yes,55,Bangalore,7,1
+647,Boat Rockerz 255,Headphones,Boat,49662,5,Okayish,hangs alottt and laggy sometimes,17-09-2024,Yes,64,Dehradun,16,2
+648,LG 260L Fridge,Refrigerator,LG,24819,3.5,Highly recommended,build qualty not good    disappointed,13-02-2024,Unknown,16,Kolkata,10,1
+649,Boat Rockerz 255,Headphones,Boat,5706,3.5,Value for money,after update device dead   ,23-10-2024,Unknown,33,Bangalore,3,1
+651,Redmi Note 12,Smartphone,Xiaomi,25309,3.1,Superbbb,packaging was torn   delivery late   ,12-01-2025,No,9,Dehradun,7,1
+652,Redmi Note 12,Smartphone,Xiaomi,6409,3.1,Value for money,after update device dead   ,31-08-2024,Unknown,76,Bangalore,17,0
+653,LG 260L Fridge,Refrigerator,LG,1136,1,Not satisfied,display ok   speakers average  ,12-11-2024,Unknown,88,Jaipur,10,1
+654,Realme Buds Air,Earbuds,Realme,17734,4,Bad quality,after update device dead   ,10-01-2024,Unknown,42,Jaipur,5,0
+655,LG 260L Fridge,Refrigerator,LG,77453,1,Okayish,super fast   smooth performance ,20-06-2024,Yes,45,Delhi,9,0
+657,OnePlus 11R,Smartphone,OnePlus,11357,5,Value for money,hangs alottt and laggy sometimes,15-10-2024,No,31,Dehradun,17,2
+658,LG 260L Fridge,Refrigerator,LG,64190,3.1,Wasteee,hangs alottt and laggy sometimes,18-12-2024,Unknown,36,Bangalore,14,0
+659,Dell Inspiron 14,Laptop,Dell,26882,3.1,Bad quality,performance is ok ok    heating issue sometimes,03-07-2025,No,82,Kolkata,16,2
+660,Realme Buds Air,Earbuds,Realme,66396,3.1,Not satisfied,stopped working after   months    very bad,11-03-2024,Yes,95,Jaipur,14,0
+661,Redmi Note 12,Smartphone,Xiaomi,78146,3.5,Superbbb,camra quality mindblowinggg but bit costly,01-04-2024,Yes,33,Mumbai,3,0
+662,HP Pavilion 15,Laptop,HP,37615,3.1,Good product,performance is ok ok    heating issue sometimes,01-01-2024,Yes,48,Bangalore,1,2
+664,Noise ColorFit Pro,Smartwatch,Noise,2580,3.1,Bad quality,totally waste of money   ,19-05-2024,No,33,Jaipur,8,0
+666,Lenovo Tab M10,Tablet,Lenovo,55968,2,Highly recommended,battery life is awsm    lasts long     ,09-10-2024,Yes,43,Jaipur,10,2
+667,OnePlus 11R,Smartphone,OnePlus,41450,4,Highly recommended,display ok   speakers average  ,05-11-2024,Yes,82,Lucknow,3,2
+668,Galaxy M14,Smartphone,Samsung,68521,3.1,Bad quality,build qualty not good    disappointed,13-03-2025,Yes,15,Pune,2,0
+669,HP Pavilion 15,Laptop,HP,19397,3.1,Wasteee,stopped working after   months    very bad,12-06-2024,Yes,58,Pune,3,1
+671,Realme Buds Air,Earbuds,Realme,77584,3.1,Good product,performance is ok ok    heating issue sometimes,25-01-2025,Unknown,36,Lucknow,14,0
+672,OnePlus 11R,Smartphone,OnePlus,6557,1,Okayish,camra quality mindblowinggg but bit costly,30-04-2024,Yes,38,Pune,3,1
+673,Lenovo Tab M10,Tablet,Lenovo,70616,3.1,Bad quality,battery life is awsm    lasts long     ,09-09-2024,Yes,78,Mumbai,2,2
+674,HP Pavilion 15,Laptop,HP,39321,5,Bad quality,sound is loud and clear   ,17-11-2024,Unknown,56,Kolkata,14,0
+675,Realme Buds Air,Earbuds,Realme,66601,3.1,Not satisfied,build qualty not good    disappointed,17-04-2024,Unknown,53,Mumbai,5,0
+676,Sony Bravia 43,Television,Sony,5341,3.1,Highly recommended,performance is ok ok    heating issue sometimes,08-09-2024,No,46,Hyderabad,5,0
+677,LG 260L Fridge,Refrigerator,LG,10463,2,Bad quality,totally waste of money   ,18-06-2024,Unknown,78,Kolkata,9,2
+678,JBL Flip 5,Speaker,JBL,8119,3.1,Okayish,display ok   speakers average  ,24-06-2024,No,12,Chandigarh,4,0
+680,HP Pavilion 15,Laptop,HP,8372,3.1,Worst experience,display ok   speakers average  ,11-09-2024,Yes,28,Chennai,8,2
+681,Sony Bravia 43,Television,Sony,1821,3.1,Not satisfied,display ok   speakers average  ,12-09-2024,Unknown,53,Bangalore,13,0
+683,OnePlus 11R,Smartphone,OnePlus,18680,2,Decent buy,hangs alottt and laggy sometimes,31-08-2024,No,60,Pune,7,2
+684,Lenovo Tab M10,Tablet,Lenovo,24949,3.5,Loved ittt,stopped working after   months    very bad,24-11-2024,No,67,Dehradun,8,2
+685,Galaxy M14,Smartphone,Samsung,52240,3.1,Amazing!!!,stopped working after   months    very bad,03-12-2024,No,28,Lucknow,1,0
+686,Asus Vivobook,Laptop,Asus,41407,5,Superbbb,hangs alottt and laggy sometimes,16-01-2025,Unknown,53,Bangalore,16,2
+687,HP Pavilion 15,Laptop,HP,45874,1,Okayish,sound is loud and clear   ,10-02-2025,Yes,57,Hyderabad,17,2
+688,LG 260L Fridge,Refrigerator,LG,14619,2,Worst experience,totally waste of money   ,10-08-2024,Unknown,30,Delhi,1,2
+690,Realme Buds Air,Earbuds,Realme,26959,3.1,Good product,stopped working after   months    very bad,18-01-2024,Yes,79,Pune,18,1
+691,HP Pavilion 15,Laptop,HP,32548,3.1,Bad quality,battery life is awsm    lasts long     ,07-03-2024,No,89,Noida,15,2
+692,Asus Vivobook,Laptop,Asus,23873,3.1,Okayish,stopped working after   months    very bad,06-09-2024,Unknown,13,Hyderabad,5,1
+694,iPhone 13,Smartphone,Apple,25167,3.1,Decent buy,build qualty not good    disappointed,23-12-2024,No,17,Kolkata,14,1
+695,Realme Buds Air,Earbuds,Realme,59533,1,Value for money,battery life is awsm    lasts long     ,23-05-2024,Yes,21,Hyderabad,9,1
+696,Boat Rockerz 255,Headphones,Boat,65113,3.5,Not satisfied,after update device dead   ,16-12-2024,Unknown,46,Hyderabad,11,2
+697,Dell Inspiron 14,Laptop,Dell,39292,5,Good product,performance is ok ok    heating issue sometimes,27-09-2024,No,97,Kolkata,10,1
+698,Lenovo Tab M10,Tablet,Lenovo,47498,5,Value for money,sound is loud and clear   ,02-07-2024,Yes,93,Lucknow,8,0
+699,Dell Inspiron 14,Laptop,Dell,32559,3,Wasteee,after update device dead   ,27-06-2024,Unknown,96,Noida,8,2
+700,iPhone 13,Smartphone,Apple,7893,4,Decent buy,packaging was torn   delivery late   ,02-09-2024,No,92,Jaipur,6,0
+701,Galaxy M14,Smartphone,Samsung,7607,3.1,Okayish,camra quality mindblowinggg but bit costly,21-02-2025,Yes,58,Noida,15,2
+704,Redmi Note 12,Smartphone,Xiaomi,13762,1,Not satisfied,packaging was torn   delivery late   ,03-03-2024,No,46,Jaipur,15,0
+705,LG 260L Fridge,Refrigerator,LG,10600,2,Decent buy,packaging was torn   delivery late   ,09-07-2024,No,65,Pune,9,1
+706,Canon EOS 1500D,Camera,Canon,46750,1,Highly recommended,after update device dead   ,14-02-2024,Unknown,99,Delhi,11,2
+707,LG 260L Fridge,Refrigerator,LG,18650,4,Highly recommended,after update device dead   ,20-01-2025,Unknown,32,Hyderabad,10,2
+708,Sony Bravia 43,Television,Sony,44101,4,Worst experience,packaging was torn   delivery late   ,06-11-2024,No,42,Mumbai,5,1
+709,Sony Bravia 43,Television,Sony,28280,5,Superbbb,stopped working after   months    very bad,19-02-2025,Yes,79,Kolkata,12,0
+711,Dell Inspiron 14,Laptop,Dell,53074,3.5,Not satisfied,performance is ok ok    heating issue sometimes,09-10-2024,Yes,69,Chennai,6,0
+712,Realme Buds Air,Earbuds,Realme,9089,4,Wasteee,camra quality mindblowinggg but bit costly,28-03-2024,No,76,Jaipur,9,0
+713,Galaxy M14,Smartphone,Samsung,12184,3.1,Wasteee,display ok   speakers average  ,29-08-2024,Unknown,50,Jaipur,18,1
+715,Redmi Note 12,Smartphone,Xiaomi,56569,4,Highly recommended,after update device dead   ,07-12-2024,Yes,1,Hyderabad,14,2
+719,OnePlus 11R,Smartphone,OnePlus,14619,3.1,Highly recommended,camra quality mindblowinggg but bit costly,07-01-2024,Unknown,51,Delhi,16,0
+720,LG 260L Fridge,Refrigerator,LG,64211,3.1,Highly recommended,packaging was torn   delivery late   ,18-04-2024,Yes,9,Delhi,7,0
+721,LG 260L Fridge,Refrigerator,LG,29159,3.1,Good product,performance is ok ok    heating issue sometimes,26-05-2024,Unknown,55,Lucknow,12,2
+722,iPhone 13,Smartphone,Apple,42921,3.1,Decent buy,after update device dead   ,11-05-2024,Unknown,52,Kolkata,12,0
+723,HP Pavilion 15,Laptop,HP,8974,3.1,Good product,after update device dead   ,26-04-2024,No,23,Noida,17,1
+724,Canon EOS 1500D,Camera,Canon,54772,3.1,Amazing!!!,super fast   smooth performance ,22-12-2024,Unknown,66,Mumbai,8,1
+725,Galaxy M14,Smartphone,Samsung,70232,2,Bad quality,hangs alottt and laggy sometimes,03-09-2024,Yes,10,Jaipur,14,1
+726,OnePlus 11R,Smartphone,OnePlus,70191,3.1,Decent buy,totally waste of money   ,21-07-2024,Unknown,14,Chandigarh,7,2
+727,OnePlus 11R,Smartphone,OnePlus,56804,3.5,Value for money,display ok   speakers average  ,12-09-2024,Yes,13,Kolkata,16,2
+728,Noise ColorFit Pro,Smartwatch,Noise,13586,3.1,Value for money,totally waste of money   ,16-08-2024,No,33,Noida,7,1
+730,OnePlus 11R,Smartphone,OnePlus,73626,1,Decent buy,display ok   speakers average  ,28-01-2024,Unknown,53,Hyderabad,7,0
+731,Asus Vivobook,Laptop,Asus,27215,3.1,Superbbb,packaging was torn   delivery late   ,15-01-2024,Yes,6,Dehradun,17,1
+732,Lenovo Tab M10,Tablet,Lenovo,45053,3,Superbbb,build qualty not good    disappointed,01-02-2024,Unknown,0,Mumbai,17,0
+734,Galaxy M14,Smartphone,Samsung,47489,3.1,Loved ittt,performance is ok ok    heating issue sometimes,19-12-2024,No,99,Bangalore,16,1
+735,Boat Rockerz 255,Headphones,Boat,33398,3.1,Superbbb,build qualty not good    disappointed,14-08-2024,No,57,Hyderabad,17,0
+736,Dell Inspiron 14,Laptop,Dell,71563,3.1,Amazing!!!,display ok   speakers average  ,10-02-2024,No,38,Jaipur,2,0
+737,JBL Flip 5,Speaker,JBL,22263,1,Good product,camra quality mindblowinggg but bit costly,10-04-2024,No,42,Dehradun,4,0
+739,iPhone 13,Smartphone,Apple,70842,5,Highly recommended,display ok   speakers average  ,07-12-2024,No,87,Lucknow,1,1
+742,Redmi Note 12,Smartphone,Xiaomi,45877,2,Value for money,camra quality mindblowinggg but bit costly,04-01-2025,Unknown,35,Kolkata,16,2
+743,Realme Buds Air,Earbuds,Realme,70421,3.1,Not satisfied,display ok   speakers average  ,21-07-2024,No,43,Pune,9,1
+744,Boat Rockerz 255,Headphones,Boat,38436,3.1,Wasteee,battery life is awsm    lasts long     ,05-06-2024,No,11,Dehradun,17,0
+745,Lenovo Tab M10,Tablet,Lenovo,62365,3.5,Amazing!!!,packaging was torn   delivery late   ,17-08-2024,Yes,54,Chandigarh,2,0
+746,iPhone 13,Smartphone,Apple,36077,4,Bad quality,sound is loud and clear   ,07-01-2024,Unknown,80,Chennai,12,2
+747,iPhone 13,Smartphone,Apple,37008,2,Amazing!!!,after update device dead   ,27-06-2024,Yes,0,Kolkata,12,0
+748,OnePlus 11R,Smartphone,OnePlus,33767,5,Value for money,build qualty not good    disappointed,10-08-2024,Yes,27,Bangalore,12,2
+749,OnePlus 11R,Smartphone,OnePlus,48301,3.1,Value for money,battery life is awsm    lasts long     ,20-06-2024,Yes,30,Lucknow,5,1
+750,Dell Inspiron 14,Laptop,Dell,23849,4,Bad quality,performance is ok ok    heating issue sometimes,02-04-2024,No,72,Chennai,5,1
+751,Noise ColorFit Pro,Smartwatch,Noise,54228,3.1,Bad quality,sound is loud and clear   ,05-03-2024,No,21,Chennai,10,0
+752,Galaxy M14,Smartphone,Samsung,40815,3.1,Worst experience,build qualty not good    disappointed,13-09-2024,No,82,Lucknow,5,1
+753,Dell Inspiron 14,Laptop,Dell,49216,3,Wasteee,performance is ok ok    heating issue sometimes,11-03-2024,Yes,28,Pune,14,0
+754,JBL Flip 5,Speaker,JBL,36095,3.1,Not satisfied,performance is ok ok    heating issue sometimes,18-11-2024,Yes,57,Delhi,9,0
+755,Boat Rockerz 255,Headphones,Boat,55174,5,Loved ittt,stopped working after   months    very bad,02-12-2025,Yes,37,Pune,3,0
+756,Dell Inspiron 14,Laptop,Dell,38582,3.1,Loved ittt,battery life is awsm    lasts long     ,04-10-2024,No,6,Lucknow,14,1
+757,iPhone 13,Smartphone,Apple,4804,3.1,Decent buy,packaging was torn   delivery late   ,12-06-2024,No,81,Kolkata,17,0
+759,Sony Bravia 43,Television,Sony,65215,3.1,Okayish,camra quality mindblowinggg but bit costly,21-12-2024,Unknown,7,Hyderabad,11,0
+760,Noise ColorFit Pro,Smartwatch,Noise,33594,5,Highly recommended,hangs alottt and laggy sometimes,16-06-2024,No,30,Mumbai,15,1
+761,Dell Inspiron 14,Laptop,Dell,7761,5,Loved ittt,packaging was torn   delivery late   ,20-02-2025,No,80,Pune,13,1
+763,LG 260L Fridge,Refrigerator,LG,14367,3.1,Not satisfied,after update device dead   ,12-09-2024,No,53,Pune,10,0
+765,HP Pavilion 15,Laptop,HP,50308,3.1,Amazing!!!,build qualty not good    disappointed,10-02-2025,Yes,99,Dehradun,10,2
+767,Lenovo Tab M10,Tablet,Lenovo,79455,3.1,Worst experience,super fast   smooth performance ,14-02-2024,No,22,Kolkata,16,2
+769,Asus Vivobook,Laptop,Asus,74049,3.1,Not satisfied,after update device dead   ,20-01-2025,Unknown,13,Pune,11,2
+770,Sony Bravia 43,Television,Sony,31264,3.1,Worst experience,camra quality mindblowinggg but bit costly,28-07-2024,Unknown,34,Kolkata,8,0
+771,Boat Rockerz 255,Headphones,Boat,42522,2,Highly recommended,hangs alottt and laggy sometimes,13-07-2024,Unknown,71,Jaipur,17,1
+773,LG 260L Fridge,Refrigerator,LG,64821,3.1,Value for money,display ok   speakers average  ,29-09-2024,Unknown,54,Jaipur,8,1
+774,HP Pavilion 15,Laptop,HP,40319,2,Amazing!!!,after update device dead   ,02-03-2025,Unknown,32,Noida,9,1
+775,Dell Inspiron 14,Laptop,Dell,27563,3,Not satisfied,performance is ok ok    heating issue sometimes,17-07-2024,Yes,69,Noida,2,2
+777,Dell Inspiron 14,Laptop,Dell,58471,3.1,Wasteee,hangs alottt and laggy sometimes,13-01-2024,Unknown,2,Kolkata,18,1
+778,Asus Vivobook,Laptop,Asus,70180,3.1,Amazing!!!,display ok   speakers average  ,26-01-2024,Yes,99,Dehradun,18,1
+779,Realme Buds Air,Earbuds,Realme,30202,2,Amazing!!!,build qualty not good    disappointed,08-04-2024,Unknown,19,Bangalore,10,0
+781,Dell Inspiron 14,Laptop,Dell,2185,3.1,Superbbb,sound is loud and clear   ,18-01-2024,No,75,Mumbai,9,2
+782,Galaxy M14,Smartphone,Samsung,59247,3.1,Wasteee,stopped working after   months    very bad,29-12-2024,Unknown,42,Jaipur,2,0
+783,Lenovo Tab M10,Tablet,Lenovo,40091,3.1,Value for money,super fast   smooth performance ,12-07-2024,No,95,Delhi,9,0
+784,Sony Bravia 43,Television,Sony,67991,3.1,Bad quality,hangs alottt and laggy sometimes,03-08-2025,No,25,Hyderabad,2,1
+786,Redmi Note 12,Smartphone,Xiaomi,74677,3.1,Good product,camra quality mindblowinggg but bit costly,05-04-2024,Unknown,48,Chennai,11,2
+788,Lenovo Tab M10,Tablet,Lenovo,28085,3.1,Wasteee,performance is ok ok    heating issue sometimes,09-05-2024,No,80,Kolkata,11,1
+789,LG 260L Fridge,Refrigerator,LG,30555,3.5,Worst experience,after update device dead   ,12-11-2024,Yes,21,Hyderabad,1,2
+790,Asus Vivobook,Laptop,Asus,2397,3.1,Not satisfied,performance is ok ok    heating issue sometimes,13-02-2025,Yes,12,Dehradun,18,1
+791,Realme Buds Air,Earbuds,Realme,48432,3.1,Wasteee,hangs alottt and laggy sometimes,25-12-2024,No,24,Kolkata,17,2
+792,Sony Bravia 43,Television,Sony,48864,3.1,Good product,after update device dead   ,31-12-2024,Yes,48,Dehradun,4,2
+793,HP Pavilion 15,Laptop,HP,75351,3.1,Decent buy,camra quality mindblowinggg but bit costly,09-01-2024,No,9,Chennai,8,2
+795,JBL Flip 5,Speaker,JBL,19293,1,Amazing!!!,hangs alottt and laggy sometimes,23-10-2024,Unknown,26,Hyderabad,13,2
+797,OnePlus 11R,Smartphone,OnePlus,38903,5,Value for money,performance is ok ok    heating issue sometimes,08-01-2024,Yes,37,Noida,10,0
+798,HP Pavilion 15,Laptop,HP,19641,1,Good product,performance is ok ok    heating issue sometimes,23-02-2025,Unknown,59,Kolkata,11,0
+799,Sony Bravia 43,Television,Sony,42341,3.1,Amazing!!!,display ok   speakers average  ,28-06-2024,No,48,Jaipur,4,0
+800,Galaxy M14,Smartphone,Samsung,62818,1,Loved ittt,stopped working after   months    very bad,05-11-2024,Yes,63,Jaipur,12,0
+802,Lenovo Tab M10,Tablet,Lenovo,80000,3.1,Loved ittt,performance is ok ok    heating issue sometimes,07-01-2024,Unknown,32,Pune,8,1
+803,iPhone 13,Smartphone,Apple,31962,3.1,Amazing!!!,display ok   speakers average  ,17-06-2024,Unknown,10,Kolkata,11,2
+804,OnePlus 11R,Smartphone,OnePlus,39079,2,Bad quality,build qualty not good    disappointed,23-10-2024,Unknown,65,Mumbai,8,2
+806,JBL Flip 5,Speaker,JBL,1976,3.1,Value for money,stopped working after   months    very bad,25-05-2024,No,8,Chennai,13,2
+807,LG 260L Fridge,Refrigerator,LG,67283,5,Amazing!!!,super fast   smooth performance ,21-10-2024,No,5,Dehradun,9,0
+808,LG 260L Fridge,Refrigerator,LG,9734,3.1,Not satisfied,battery life is awsm    lasts long     ,19-07-2024,Unknown,91,Delhi,2,1
+809,OnePlus 11R,Smartphone,OnePlus,5241,3.1,Worst experience,totally waste of money   ,13-07-2024,Yes,11,Bangalore,10,2
+810,Noise ColorFit Pro,Smartwatch,Noise,57299,1,Decent buy,stopped working after   months    very bad,12-03-2024,Unknown,64,Pune,3,2
+812,Redmi Note 12,Smartphone,Xiaomi,45593,3.1,Decent buy,build qualty not good    disappointed,18-12-2024,Unknown,71,Pune,11,0
+815,Boat Rockerz 255,Headphones,Boat,45628,3.1,Decent buy,battery life is awsm    lasts long     ,23-07-2024,Yes,47,Pune,18,2
+819,Sony Bravia 43,Television,Sony,37948,3.1,Wasteee,totally waste of money   ,24-02-2024,Yes,35,Noida,16,0
+821,Redmi Note 12,Smartphone,Xiaomi,57995,3.1,Not satisfied,packaging was torn   delivery late   ,08-04-2024,Unknown,26,Delhi,8,1
+822,Asus Vivobook,Laptop,Asus,18818,3.1,Amazing!!!,camra quality mindblowinggg but bit costly,30-06-2024,Yes,1,Dehradun,3,1
+823,Dell Inspiron 14,Laptop,Dell,47664,1,Value for money,battery life is awsm    lasts long     ,21-07-2024,Unknown,70,Noida,1,2
+824,OnePlus 11R,Smartphone,OnePlus,59769,5,Worst experience,super fast   smooth performance ,31-05-2024,Unknown,21,Pune,18,1
+826,iPhone 13,Smartphone,Apple,63839,3.1,Okayish,sound is loud and clear   ,27-01-2025,No,96,Noida,8,2
+827,JBL Flip 5,Speaker,JBL,12724,1,Good product,display ok   speakers average  ,24-11-2024,Unknown,88,Dehradun,9,2
+829,OnePlus 11R,Smartphone,OnePlus,5387,3.1,Amazing!!!,sound is loud and clear   ,03-04-2024,No,50,Noida,3,1
+831,Lenovo Tab M10,Tablet,Lenovo,38667,2,Not satisfied,camra quality mindblowinggg but bit costly,21-05-2024,Unknown,43,Dehradun,6,1
+833,Redmi Note 12,Smartphone,Xiaomi,47822,4,Good product,packaging was torn   delivery late   ,09-01-2024,Unknown,32,Jaipur,9,1
+834,Noise ColorFit Pro,Smartwatch,Noise,50255,4,Wasteee,battery life is awsm    lasts long     ,29-04-2024,No,61,Jaipur,4,0
+835,JBL Flip 5,Speaker,JBL,15772,1,Decent buy,after update device dead   ,27-10-2024,Yes,79,Kolkata,14,1
+836,LG 260L Fridge,Refrigerator,LG,56115,3.1,Not satisfied,battery life is awsm    lasts long     ,21-03-2024,No,49,Kolkata,16,1
+838,Redmi Note 12,Smartphone,Xiaomi,61467,3.1,Highly recommended,hangs alottt and laggy sometimes,21-09-2024,No,69,Delhi,16,1
+839,Noise ColorFit Pro,Smartwatch,Noise,76789,4,Not satisfied,build qualty not good    disappointed,08-01-2024,Yes,31,Hyderabad,2,1
+841,Sony Bravia 43,Television,Sony,5186,3.1,Okayish,stopped working after   months    very bad,28-05-2024,Yes,49,Kolkata,14,0
+843,Dell Inspiron 14,Laptop,Dell,41845,3.1,Amazing!!!,display ok   speakers average  ,27-03-2024,No,93,Kolkata,17,2
+844,LG 260L Fridge,Refrigerator,LG,48746,3.1,Not satisfied,camra quality mindblowinggg but bit costly,23-03-2024,Unknown,11,Chandigarh,12,1
+845,HP Pavilion 15,Laptop,HP,66752,3.5,Worst experience,build qualty not good    disappointed,02-04-2024,Yes,86,Mumbai,16,2
+846,JBL Flip 5,Speaker,JBL,76642,3.1,Worst experience,battery life is awsm    lasts long     ,01-03-2024,No,96,Pune,6,0
+847,Redmi Note 12,Smartphone,Xiaomi,15767,3.1,Superbbb,battery life is awsm    lasts long     ,14-07-2024,Unknown,30,Chennai,6,1
+848,Dell Inspiron 14,Laptop,Dell,58469,3,Loved ittt,after update device dead   ,16-02-2024,No,45,Lucknow,16,2
+849,Sony Bravia 43,Television,Sony,15594,1,Okayish,performance is ok ok    heating issue sometimes,23-03-2024,Yes,97,Bangalore,2,1
+850,Realme Buds Air,Earbuds,Realme,21922,1,Decent buy,after update device dead   ,26-08-2024,Yes,85,Bangalore,15,2
+851,iPhone 13,Smartphone,Apple,6762,5,Superbbb,after update device dead   ,26-04-2024,Yes,20,Mumbai,12,2
+852,Sony Bravia 43,Television,Sony,43729,3,Loved ittt,stopped working after   months    very bad,14-05-2024,Unknown,32,Chandigarh,14,1
+853,Sony Bravia 43,Television,Sony,77381,3.1,Amazing!!!,sound is loud and clear   ,27-01-2024,Yes,26,Mumbai,11,1
+854,JBL Flip 5,Speaker,JBL,59794,3,Value for money,after update device dead   ,12-01-2025,Yes,97,Noida,16,0
+855,Asus Vivobook,Laptop,Asus,15991,3.1,Value for money,sound is loud and clear   ,08-10-2024,Yes,39,Noida,8,1
+856,Lenovo Tab M10,Tablet,Lenovo,76359,5,Worst experience,battery life is awsm    lasts long     ,31-07-2024,Unknown,3,Hyderabad,5,0
+857,LG 260L Fridge,Refrigerator,LG,30447,3,Loved ittt,stopped working after   months    very bad,09-05-2024,Yes,100,Bangalore,8,2
+858,Canon EOS 1500D,Camera,Canon,44901,3.5,Bad quality,totally waste of money   ,23-02-2025,Unknown,83,Hyderabad,3,2
+859,HP Pavilion 15,Laptop,HP,17232,3.1,Superbbb,hangs alottt and laggy sometimes,21-10-2024,Yes,4,Jaipur,12,1
+863,Asus Vivobook,Laptop,Asus,44394,3.1,Bad quality,camra quality mindblowinggg but bit costly,28-08-2024,No,3,Noida,17,0
+864,Sony Bravia 43,Television,Sony,77070,3.1,Amazing!!!,stopped working after   months    very bad,19-01-2025,Unknown,39,Lucknow,9,1
+866,OnePlus 11R,Smartphone,OnePlus,6872,3.1,Wasteee,hangs alottt and laggy sometimes,03-02-2024,Unknown,25,Mumbai,6,1
+867,Galaxy M14,Smartphone,Samsung,49750,5,Decent buy,stopped working after   months    very bad,12-05-2024,No,35,Mumbai,10,2
+869,HP Pavilion 15,Laptop,HP,64425,3,Good product,super fast   smooth performance ,20-04-2024,Unknown,32,Jaipur,4,0
+871,Sony Bravia 43,Television,Sony,69322,1,Highly recommended,totally waste of money   ,09-12-2024,Yes,41,Delhi,13,0
+872,Dell Inspiron 14,Laptop,Dell,53242,3.1,Worst experience,sound is loud and clear   ,08-06-2024,Unknown,7,Mumbai,16,2
+873,JBL Flip 5,Speaker,JBL,5414,3.5,Okayish,totally waste of money   ,09-12-2024,Unknown,88,Lucknow,6,1
+875,Realme Buds Air,Earbuds,Realme,45464,2,Loved ittt,performance is ok ok    heating issue sometimes,27-06-2024,Yes,88,Noida,14,0
+876,LG 260L Fridge,Refrigerator,LG,39857,5,Okayish,performance is ok ok    heating issue sometimes,03-11-2024,No,51,Mumbai,7,1
+877,Asus Vivobook,Laptop,Asus,10951,1,Not satisfied,display ok   speakers average  ,18-02-2024,Unknown,84,Hyderabad,5,2
+878,JBL Flip 5,Speaker,JBL,77068,4,Not satisfied,packaging was torn   delivery late   ,18-08-2024,No,89,Mumbai,9,1
+879,Sony Bravia 43,Television,Sony,32330,3,Value for money,hangs alottt and laggy sometimes,05-06-2024,Yes,85,Pune,16,2
+880,HP Pavilion 15,Laptop,HP,23048,5,Good product,performance is ok ok    heating issue sometimes,04-12-2024,Yes,63,Bangalore,18,2
+881,Sony Bravia 43,Television,Sony,40665,3.1,Superbbb,super fast   smooth performance ,21-11-2024,Yes,77,Chennai,1,2
+883,Redmi Note 12,Smartphone,Xiaomi,51731,1,Good product,packaging was torn   delivery late   ,02-04-2024,No,71,Bangalore,5,1
+884,Noise ColorFit Pro,Smartwatch,Noise,15365,3,Good product,packaging was torn   delivery late   ,19-03-2024,No,21,Delhi,13,2
+885,JBL Flip 5,Speaker,JBL,4450,1,Value for money,build qualty not good    disappointed,19-05-2024,Unknown,14,Pune,1,0
+886,iPhone 13,Smartphone,Apple,35600,3.1,Bad quality,camra quality mindblowinggg but bit costly,22-02-2025,Unknown,4,Mumbai,18,0
+887,Asus Vivobook,Laptop,Asus,31866,3.1,Value for money,battery life is awsm    lasts long     ,07-03-2024,Yes,49,Hyderabad,18,0
+890,Realme Buds Air,Earbuds,Realme,62803,1,Highly recommended,hangs alottt and laggy sometimes,24-12-2024,Yes,63,Mumbai,2,0
+892,Dell Inspiron 14,Laptop,Dell,37317,3,Superbbb,camra quality mindblowinggg but bit costly,21-09-2024,Yes,34,Kolkata,10,2
+893,Sony Bravia 43,Television,Sony,13114,3.1,Highly recommended,totally waste of money   ,25-06-2024,No,54,Hyderabad,18,0
+894,Dell Inspiron 14,Laptop,Dell,13666,3.1,Okayish,after update device dead   ,02-04-2024,No,48,Jaipur,18,0
+895,HP Pavilion 15,Laptop,HP,36703,3,Bad quality,after update device dead   ,14-04-2024,Unknown,98,Chennai,4,1
+896,LG 260L Fridge,Refrigerator,LG,48820,3.5,Bad quality,packaging was torn   delivery late   ,07-01-2024,Yes,87,Pune,14,1
+897,Sony Bravia 43,Television,Sony,38238,3.1,Good product,camra quality mindblowinggg but bit costly,19-11-2024,Yes,18,Delhi,17,2
+898,Noise ColorFit Pro,Smartwatch,Noise,48756,5,Okayish,build qualty not good    disappointed,26-05-2024,Yes,70,Chennai,4,2
+899,Sony Bravia 43,Television,Sony,4969,3,Not satisfied,sound is loud and clear   ,03-06-2024,Yes,63,Mumbai,7,0
+900,Lenovo Tab M10,Tablet,Lenovo,31189,1,Bad quality,packaging was torn   delivery late   ,25-02-2024,No,95,Chandigarh,7,0
+901,Galaxy M14,Smartphone,Samsung,34664,3.1,Worst experience,build qualty not good    disappointed,30-07-2024,Unknown,97,Dehradun,1,0
+902,Dell Inspiron 14,Laptop,Dell,26963,1,Value for money,battery life is awsm    lasts long     ,14-05-2024,Unknown,42,Pune,17,0
+903,Canon EOS 1500D,Camera,Canon,13869,2,Bad quality,display ok   speakers average  ,21-09-2024,Yes,75,Bangalore,6,2
+904,JBL Flip 5,Speaker,JBL,46410,3.1,Amazing!!!,hangs alottt and laggy sometimes,31-12-2024,Unknown,40,Pune,15,0
+905,Boat Rockerz 255,Headphones,Boat,58096,3.1,Highly recommended,hangs alottt and laggy sometimes,26-10-2024,No,69,Hyderabad,11,1
+906,OnePlus 11R,Smartphone,OnePlus,9779,5,Bad quality,sound is loud and clear   ,19-01-2025,No,93,Kolkata,13,2
+908,Canon EOS 1500D,Camera,Canon,44861,3.1,Amazing!!!,performance is ok ok    heating issue sometimes,14-02-2024,No,48,Pune,15,0
+909,Lenovo Tab M10,Tablet,Lenovo,66504,4,Loved ittt,display ok   speakers average  ,27-02-2025,No,18,Lucknow,3,0
+911,iPhone 13,Smartphone,Apple,35598,3.1,Decent buy,super fast   smooth performance ,23-02-2025,Unknown,64,Noida,13,0
+912,Galaxy M14,Smartphone,Samsung,30403,3.5,Superbbb,packaging was torn   delivery late   ,26-12-2024,Unknown,98,Chennai,7,1
+913,Canon EOS 1500D,Camera,Canon,9424,3.1,Amazing!!!,performance is ok ok    heating issue sometimes,03-09-2025,No,47,Delhi,13,1
+916,JBL Flip 5,Speaker,JBL,69651,3.1,Wasteee,stopped working after   months    very bad,09-10-2024,No,88,Kolkata,14,2
+917,Redmi Note 12,Smartphone,Xiaomi,59341,3.1,Amazing!!!,stopped working after   months    very bad,04-05-2024,No,47,Lucknow,6,1
+919,LG 260L Fridge,Refrigerator,LG,17021,3.1,Bad quality,totally waste of money   ,19-01-2025,Unknown,53,Dehradun,7,1
+920,Boat Rockerz 255,Headphones,Boat,7001,3.1,Worst experience,after update device dead   ,25-01-2024,No,17,Chandigarh,2,0
+922,Asus Vivobook,Laptop,Asus,50041,5,Decent buy,build qualty not good    disappointed,20-03-2024,Unknown,27,Bangalore,12,2
+923,Boat Rockerz 255,Headphones,Boat,64764,3,Decent buy,packaging was torn   delivery late   ,27-09-2024,Yes,34,Kolkata,18,2
+925,Canon EOS 1500D,Camera,Canon,44375,3.1,Okayish,build qualty not good    disappointed,10-04-2024,No,95,Kolkata,2,1
+926,Dell Inspiron 14,Laptop,Dell,51899,3.1,Not satisfied,after update device dead   ,13-01-2024,No,77,Pune,6,1
+929,Boat Rockerz 255,Headphones,Boat,49625,3.1,Decent buy,battery life is awsm    lasts long     ,04-04-2024,Unknown,22,Noida,4,1
+930,Boat Rockerz 255,Headphones,Boat,38536,3,Wasteee,performance is ok ok    heating issue sometimes,23-10-2024,Yes,98,Bangalore,12,0
+931,JBL Flip 5,Speaker,JBL,79532,3.1,Not satisfied,build qualty not good    disappointed,23-05-2024,No,6,Bangalore,17,1
+933,HP Pavilion 15,Laptop,HP,3489,2,Decent buy,display ok   speakers average  ,12-05-2024,Unknown,72,Mumbai,12,0
+934,OnePlus 11R,Smartphone,OnePlus,67061,3.1,Superbbb,hangs alottt and laggy sometimes,27-07-2024,No,8,Chennai,3,1
+935,Noise ColorFit Pro,Smartwatch,Noise,60508,3.5,Highly recommended,packaging was torn   delivery late   ,11-03-2025,Unknown,6,Kolkata,8,2
+936,Redmi Note 12,Smartphone,Xiaomi,70096,3.1,Decent buy,after update device dead   ,11-11-2024,Yes,35,Lucknow,1,0
+938,Realme Buds Air,Earbuds,Realme,31875,3.1,Good product,super fast   smooth performance ,19-01-2025,Unknown,10,Noida,6,1
+939,Asus Vivobook,Laptop,Asus,28658,3.1,Not satisfied,packaging was torn   delivery late   ,03-10-2025,Yes,20,Noida,4,1
+940,Redmi Note 12,Smartphone,Xiaomi,15219,3.1,Loved ittt,hangs alottt and laggy sometimes,06-01-2024,No,6,Chennai,17,2
+941,LG 260L Fridge,Refrigerator,LG,19146,3.1,Okayish,performance is ok ok    heating issue sometimes,30-07-2024,No,49,Lucknow,15,2
+942,Canon EOS 1500D,Camera,Canon,70291,1,Superbbb,super fast   smooth performance ,20-02-2024,No,12,Mumbai,17,0
+945,Lenovo Tab M10,Tablet,Lenovo,37725,3,Okayish,battery life is awsm    lasts long     ,09-04-2024,Unknown,43,Kolkata,13,0
+947,Galaxy M14,Smartphone,Samsung,43405,3.1,Good product,packaging was torn   delivery late   ,16-06-2024,No,62,Noida,5,0
+948,LG 260L Fridge,Refrigerator,LG,71292,3.1,Loved ittt,stopped working after   months    very bad,14-02-2025,No,51,Noida,6,0
+950,Dell Inspiron 14,Laptop,Dell,27150,3.1,Wasteee,hangs alottt and laggy sometimes,25-07-2024,No,58,Hyderabad,12,2
+951,Lenovo Tab M10,Tablet,Lenovo,1665,3.1,Superbbb,super fast   smooth performance ,01-03-2025,No,29,Kolkata,3,2
+953,Dell Inspiron 14,Laptop,Dell,61258,3.1,Good product,totally waste of money   ,28-06-2024,No,59,Jaipur,9,2
+954,HP Pavilion 15,Laptop,HP,11391,3.1,Superbbb,camra quality mindblowinggg but bit costly,13-03-2025,Yes,94,Lucknow,4,1
+955,Boat Rockerz 255,Headphones,Boat,25590,2,Decent buy,sound is loud and clear   ,27-09-2024,Yes,49,Jaipur,6,0
+956,iPhone 13,Smartphone,Apple,8412,1,Highly recommended,hangs alottt and laggy sometimes,14-03-2024,No,39,Chennai,13,1
+957,Asus Vivobook,Laptop,Asus,43032,3.1,Good product,after update device dead   ,17-03-2024,Unknown,20,Chennai,7,1
+959,JBL Flip 5,Speaker,JBL,10727,2,Good product,totally waste of money   ,09-12-2024,No,68,Pune,12,0
+960,HP Pavilion 15,Laptop,HP,33228,5,Bad quality,packaging was torn   delivery late   ,29-03-2024,Unknown,40,Kolkata,6,2
+961,Sony Bravia 43,Television,Sony,26255,2,Bad quality,hangs alottt and laggy sometimes,14-03-2025,Yes,40,Mumbai,4,2
+962,LG 260L Fridge,Refrigerator,LG,43968,3.1,Loved ittt,camra quality mindblowinggg but bit costly,12-12-2024,No,7,Pune,16,2
+963,Canon EOS 1500D,Camera,Canon,79645,2,Wasteee,totally waste of money   ,26-01-2024,No,67,Kolkata,8,2
+965,iPhone 13,Smartphone,Apple,54529,2,Bad quality,hangs alottt and laggy sometimes,02-05-2025,No,30,Lucknow,5,0
+966,Galaxy M14,Smartphone,Samsung,53506,3.1,Okayish,camra quality mindblowinggg but bit costly,18-11-2024,No,21,Pune,6,2
+967,Redmi Note 12,Smartphone,Xiaomi,61699,3,Good product,after update device dead   ,11-09-2024,Unknown,14,Chandigarh,1,0
+968,Noise ColorFit Pro,Smartwatch,Noise,41573,3.1,Amazing!!!,build qualty not good    disappointed,15-10-2024,Unknown,78,Dehradun,2,2
+969,Boat Rockerz 255,Headphones,Boat,70400,3.1,Value for money,hangs alottt and laggy sometimes,28-08-2024,Yes,22,Dehradun,17,1
+970,OnePlus 11R,Smartphone,OnePlus,14628,5,Worst experience,display ok   speakers average  ,31-03-2024,Yes,90,Pune,3,2
+972,Galaxy M14,Smartphone,Samsung,16667,4,Good product,super fast   smooth performance ,21-10-2024,No,50,Lucknow,17,0
+973,Dell Inspiron 14,Laptop,Dell,24258,5,Worst experience,hangs alottt and laggy sometimes,11-05-2024,Yes,49,Kolkata,9,2
+974,Lenovo Tab M10,Tablet,Lenovo,76062,3.1,Amazing!!!,sound is loud and clear   ,17-09-2024,Yes,86,Pune,1,1
+975,Sony Bravia 43,Television,Sony,49230,3.1,Superbbb,hangs alottt and laggy sometimes,09-07-2024,No,24,Delhi,15,2
+976,Noise ColorFit Pro,Smartwatch,Noise,47593,3.1,Amazing!!!,camra quality mindblowinggg but bit costly,05-01-2024,No,59,Dehradun,17,0
+977,Galaxy M14,Smartphone,Samsung,37701,3.1,Value for money,build qualty not good    disappointed,12-06-2024,Unknown,16,Noida,9,2
+980,Dell Inspiron 14,Laptop,Dell,33659,2,Value for money,camra quality mindblowinggg but bit costly,14-08-2024,No,63,Lucknow,3,1
+981,Galaxy M14,Smartphone,Samsung,77068,3.1,Amazing!!!,display ok   speakers average  ,01-05-2024,Yes,75,Mumbai,13,1
+982,iPhone 13,Smartphone,Apple,70871,4,Good product,hangs alottt and laggy sometimes,09-03-2024,Unknown,37,Jaipur,14,2
+984,Canon EOS 1500D,Camera,Canon,10815,2,Loved ittt,after update device dead   ,17-01-2025,Unknown,70,Chandigarh,16,0
+985,Dell Inspiron 14,Laptop,Dell,8793,3.1,Value for money,after update device dead   ,20-08-2024,No,2,Noida,6,1
+987,HP Pavilion 15,Laptop,HP,21440,2,Not satisfied,super fast   smooth performance ,28-03-2024,Unknown,16,Hyderabad,10,1
+988,JBL Flip 5,Speaker,JBL,77300,3.1,Okayish,sound is loud and clear   ,24-05-2024,Unknown,34,Kolkata,17,1
+989,Lenovo Tab M10,Tablet,Lenovo,44318,4,Amazing!!!,sound is loud and clear   ,01-12-2025,Unknown,50,Chennai,13,2
+990,JBL Flip 5,Speaker,JBL,35207,4,Okayish,packaging was torn   delivery late   ,03-02-2025,Unknown,77,Bangalore,15,0
+991,HP Pavilion 15,Laptop,HP,76632,3.1,Decent buy,battery life is awsm    lasts long     ,01-03-2025,Unknown,34,Kolkata,3,1
+992,OnePlus 11R,Smartphone,OnePlus,51175,3.1,Not satisfied,super fast   smooth performance ,27-03-2024,Yes,18,Dehradun,16,2
+994,OnePlus 11R,Smartphone,OnePlus,62396,3.1,Bad quality,camra quality mindblowinggg but bit costly,01-04-2024,Yes,85,Mumbai,1,1
+997,Noise ColorFit Pro,Smartwatch,Noise,1698,5,Value for money,camra quality mindblowinggg but bit costly,19-07-2024,No,94,Hyderabad,6,2
+1000,Lenovo Tab M10,Tablet,Lenovo,63698,3.1,Okayish,super fast   smooth performance ,29-01-2025,Unknown,42,Chandigarh,18,0
+1001,Boat Rockerz 255,Headphones,Boat,79172,3.1,Loved ittt,display ok   speakers average  ,27-09-2024,Unknown,5,Mumbai,10,2
+1002,Redmi Note 12,Smartphone,Xiaomi,9835,3,Value for money,display ok   speakers average  ,24-02-2024,Yes,94,Pune,6,1
+1003,HP Pavilion 15,Laptop,HP,69504,3.1,Value for money,performance is ok ok    heating issue sometimes,15-11-2024,No,12,Chennai,15,0
+1004,Galaxy M14,Smartphone,Samsung,25831,3.1,Highly recommended,totally waste of money   ,18-02-2024,Unknown,73,Hyderabad,7,0
+1005,Canon EOS 1500D,Camera,Canon,47931,3.1,Not satisfied,stopped working after   months    very bad,18-08-2024,Yes,73,Lucknow,16,1
+1007,Sony Bravia 43,Television,Sony,40130,1,Bad quality,display ok   speakers average  ,15-12-2024,Unknown,96,Mumbai,3,0
+1008,Redmi Note 12,Smartphone,Xiaomi,22618,3.5,Highly recommended,build qualty not good    disappointed,22-08-2024,No,91,Mumbai,7,0
+1009,Noise ColorFit Pro,Smartwatch,Noise,2740,3.1,Superbbb,after update device dead   ,28-02-2025,No,18,Kolkata,11,2
+1011,iPhone 13,Smartphone,Apple,10713,3.1,Not satisfied,stopped working after   months    very bad,19-05-2024,Yes,13,Dehradun,10,2
+1012,OnePlus 11R,Smartphone,OnePlus,61139,3.5,Worst experience,camra quality mindblowinggg but bit costly,14-02-2024,Yes,2,Chandigarh,8,1
+1013,Redmi Note 12,Smartphone,Xiaomi,19383,3.1,Okayish,build qualty not good    disappointed,28-08-2024,No,43,Pune,2,1
+1014,iPhone 13,Smartphone,Apple,42996,2,Superbbb,battery life is awsm    lasts long     ,06-02-2024,No,27,Lucknow,12,2
+1015,Dell Inspiron 14,Laptop,Dell,72356,2,Decent buy,after update device dead   ,24-03-2024,Yes,90,Dehradun,14,1
+1016,JBL Flip 5,Speaker,JBL,10274,1,Good product,totally waste of money   ,04-12-2024,No,13,Chennai,13,2
+1017,iPhone 13,Smartphone,Apple,26533,3.1,Superbbb,packaging was torn   delivery late   ,18-06-2024,No,31,Jaipur,5,1
+1021,Galaxy M14,Smartphone,Samsung,67589,1,Bad quality,build qualty not good    disappointed,08-08-2024,Unknown,91,Bangalore,6,1
+1023,Realme Buds Air,Earbuds,Realme,69620,3,Worst experience,hangs alottt and laggy sometimes,26-10-2024,No,57,Delhi,2,0
+1024,Lenovo Tab M10,Tablet,Lenovo,18338,3.1,Not satisfied,totally waste of money   ,01-11-2025,Yes,72,Kolkata,15,0
+1025,Boat Rockerz 255,Headphones,Boat,3913,2,Loved ittt,sound is loud and clear   ,14-04-2024,Yes,5,Chennai,16,0
+1026,Redmi Note 12,Smartphone,Xiaomi,61653,4,Worst experience,build qualty not good    disappointed,21-09-2024,Yes,48,Dehradun,14,1
+1028,Galaxy M14,Smartphone,Samsung,65714,3.1,Superbbb,build qualty not good    disappointed,14-08-2024,Yes,32,Bangalore,16,2
+1029,Galaxy M14,Smartphone,Samsung,68160,3.1,Highly recommended,hangs alottt and laggy sometimes,27-10-2024,Unknown,0,Noida,9,0
+1030,Sony Bravia 43,Television,Sony,6733,4,Amazing!!!,performance is ok ok    heating issue sometimes,04-11-2024,Yes,65,Noida,12,1
+1031,Redmi Note 12,Smartphone,Xiaomi,58156,1,Wasteee,battery life is awsm    lasts long     ,27-09-2024,Unknown,24,Mumbai,17,1
+1032,Boat Rockerz 255,Headphones,Boat,10195,3,Bad quality,build qualty not good    disappointed,31-07-2024,Unknown,19,Chandigarh,3,2
+1033,Realme Buds Air,Earbuds,Realme,75297,3.1,Worst experience,build qualty not good    disappointed,30-11-2024,No,75,Dehradun,14,0
+1034,Galaxy M14,Smartphone,Samsung,62296,3.1,Amazing!!!,after update device dead   ,17-07-2024,No,51,Noida,1,1
+1035,HP Pavilion 15,Laptop,HP,51573,1,Good product,performance is ok ok    heating issue sometimes,16-03-2024,Yes,23,Dehradun,12,1
+1036,Galaxy M14,Smartphone,Samsung,25806,3.1,Superbbb,stopped working after   months    very bad,12-06-2024,No,62,Lucknow,2,0
+1037,Dell Inspiron 14,Laptop,Dell,79396,2,Decent buy,super fast   smooth performance ,05-04-2024,No,77,Dehradun,17,2
+1038,Canon EOS 1500D,Camera,Canon,57984,4,Good product,camra quality mindblowinggg but bit costly,19-05-2024,No,22,Lucknow,12,2
+1039,iPhone 13,Smartphone,Apple,42954,1,Not satisfied,performance is ok ok    heating issue sometimes,03-08-2024,Yes,44,Kolkata,4,1
+1040,Asus Vivobook,Laptop,Asus,58219,2,Wasteee,packaging was torn   delivery late   ,21-02-2025,No,2,Kolkata,17,0
+1041,Redmi Note 12,Smartphone,Xiaomi,17694,3.1,Decent buy,sound is loud and clear   ,18-03-2024,Unknown,96,Jaipur,14,1
+1042,iPhone 13,Smartphone,Apple,62588,2,Bad quality,performance is ok ok    heating issue sometimes,06-07-2024,Yes,84,Kolkata,12,2
+1045,HP Pavilion 15,Laptop,HP,69193,3.1,Value for money,battery life is awsm    lasts long     ,26-06-2024,No,83,Noida,17,0
+1046,Galaxy M14,Smartphone,Samsung,59024,3.1,Highly recommended,performance is ok ok    heating issue sometimes,02-06-2024,Unknown,37,Lucknow,15,1
+1048,LG 260L Fridge,Refrigerator,LG,13131,5,Bad quality,stopped working after   months    very bad,13-10-2024,Yes,11,Bangalore,3,2
+1050,Lenovo Tab M10,Tablet,Lenovo,74365,3.1,Good product,hangs alottt and laggy sometimes,13-01-2025,Unknown,42,Kolkata,14,0
+1053,Sony Bravia 43,Television,Sony,58599,5,Superbbb,after update device dead   ,16-06-2024,Unknown,5,Dehradun,4,1
+1054,iPhone 13,Smartphone,Apple,61775,3.1,Loved ittt,hangs alottt and laggy sometimes,29-11-2024,No,72,Delhi,7,1
+1055,Asus Vivobook,Laptop,Asus,5082,4,Okayish,hangs alottt and laggy sometimes,11-10-2024,Unknown,97,Jaipur,5,2
+1057,OnePlus 11R,Smartphone,OnePlus,52762,3,Worst experience,after update device dead   ,03-02-2025,Yes,32,Hyderabad,2,0
+1058,Dell Inspiron 14,Laptop,Dell,14173,3.1,Good product,battery life is awsm    lasts long     ,22-08-2024,Yes,96,Chennai,1,1
+1062,Boat Rockerz 255,Headphones,Boat,64653,2,Okayish,stopped working after   months    very bad,11-08-2024,Yes,21,Kolkata,13,2
+1063,OnePlus 11R,Smartphone,OnePlus,31658,3.1,Good product,battery life is awsm    lasts long     ,01-08-2025,No,44,Mumbai,14,2
+1064,HP Pavilion 15,Laptop,HP,37250,3.1,Wasteee,build qualty not good    disappointed,29-06-2024,No,29,Pune,1,1
+1065,JBL Flip 5,Speaker,JBL,37618,3.1,Bad quality,totally waste of money   ,17-02-2025,No,53,Chennai,11,2
+1066,Asus Vivobook,Laptop,Asus,10929,3.5,Worst experience,sound is loud and clear   ,07-02-2025,Unknown,83,Pune,8,0
+1067,OnePlus 11R,Smartphone,OnePlus,42497,3.1,Good product,super fast   smooth performance ,21-12-2024,Unknown,4,Pune,6,1
+1068,Noise ColorFit Pro,Smartwatch,Noise,73756,3.1,Wasteee,after update device dead   ,27-05-2024,Unknown,73,Lucknow,2,2
+1070,Dell Inspiron 14,Laptop,Dell,79924,3.5,Highly recommended,display ok   speakers average  ,02-12-2024,Unknown,80,Dehradun,18,0
+1071,HP Pavilion 15,Laptop,HP,47674,3.1,Highly recommended,hangs alottt and laggy sometimes,31-05-2024,Unknown,76,Mumbai,13,2
+1073,Lenovo Tab M10,Tablet,Lenovo,34623,1,Highly recommended,build qualty not good    disappointed,07-05-2024,Unknown,55,Noida,16,2
+1074,HP Pavilion 15,Laptop,HP,50658,3,Not satisfied,stopped working after   months    very bad,25-05-2024,Unknown,94,Mumbai,7,2
+1075,Dell Inspiron 14,Laptop,Dell,22302,3.1,Not satisfied,super fast   smooth performance ,29-07-2024,Yes,55,Noida,18,1
+1076,iPhone 13,Smartphone,Apple,61759,1,Wasteee,camra quality mindblowinggg but bit costly,20-02-2024,Unknown,46,Chandigarh,7,2
+1077,Noise ColorFit Pro,Smartwatch,Noise,1036,3.1,Worst experience,stopped working after   months    very bad,27-04-2024,Yes,70,Chandigarh,5,1
+1078,Sony Bravia 43,Television,Sony,62730,3.1,Wasteee,sound is loud and clear   ,13-11-2024,No,21,Lucknow,17,2
+1079,Redmi Note 12,Smartphone,Xiaomi,53582,2,Okayish,packaging was torn   delivery late   ,03-09-2025,Unknown,18,Hyderabad,3,2
+1080,Realme Buds Air,Earbuds,Realme,23710,3.1,Loved ittt,packaging was torn   delivery late   ,23-09-2024,No,2,Delhi,5,2
+1082,Sony Bravia 43,Television,Sony,28604,3.1,Superbbb,battery life is awsm    lasts long     ,23-02-2024,Yes,74,Dehradun,9,2
+1083,Galaxy M14,Smartphone,Samsung,8896,1,Amazing!!!,packaging was torn   delivery late   ,31-03-2024,Unknown,44,Chennai,12,1
+1084,Asus Vivobook,Laptop,Asus,64447,5,Okayish,hangs alottt and laggy sometimes,14-07-2024,Yes,68,Pune,12,0
+1085,HP Pavilion 15,Laptop,HP,22318,3.1,Not satisfied,totally waste of money   ,03-05-2024,Yes,68,Chandigarh,10,2
+1086,JBL Flip 5,Speaker,JBL,49194,3,Value for money,super fast   smooth performance ,02-07-2024,No,13,Pune,7,1
+1087,OnePlus 11R,Smartphone,OnePlus,39248,3.5,Highly recommended,display ok   speakers average  ,20-01-2024,No,8,Mumbai,1,2
+1088,Canon EOS 1500D,Camera,Canon,2977,3.1,Wasteee,after update device dead   ,11-05-2024,No,38,Mumbai,15,2
+1089,Boat Rockerz 255,Headphones,Boat,76978,2,Loved ittt,super fast   smooth performance ,03-11-2024,Yes,20,Lucknow,10,1
+1090,JBL Flip 5,Speaker,JBL,14319,2,Okayish,battery life is awsm    lasts long     ,09-11-2024,No,36,Kolkata,6,1
+1091,HP Pavilion 15,Laptop,HP,47214,3.1,Highly recommended,battery life is awsm    lasts long     ,12-09-2024,No,89,Jaipur,2,0
+1092,Canon EOS 1500D,Camera,Canon,9886,4,Okayish,camra quality mindblowinggg but bit costly,15-03-2025,Yes,4,Kolkata,14,2
+1094,Lenovo Tab M10,Tablet,Lenovo,21619,3.5,Okayish,battery life is awsm    lasts long     ,30-05-2024,No,77,Lucknow,16,2
+1095,Boat Rockerz 255,Headphones,Boat,50797,3.1,Highly recommended,totally waste of money   ,21-02-2025,No,25,Noida,3,0
+1097,Canon EOS 1500D,Camera,Canon,55491,3,Value for money,stopped working after   months    very bad,28-05-2024,Yes,36,Mumbai,4,1
+1098,HP Pavilion 15,Laptop,HP,63838,5,Superbbb,totally waste of money   ,27-02-2024,Unknown,35,Pune,1,0
+1099,JBL Flip 5,Speaker,JBL,49287,3.1,Decent buy,hangs alottt and laggy sometimes,04-06-2024,Yes,89,Bangalore,10,1
+1100,Asus Vivobook,Laptop,Asus,38074,3.5,Amazing!!!,performance is ok ok    heating issue sometimes,08-08-2024,No,19,Noida,13,0
